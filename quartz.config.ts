@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "grooling.github.io",
     ignorePatterns: ["private", "_assets/templates/", ".obsidian", "zone/"],
     defaultDateType: "created",
     theme: {
