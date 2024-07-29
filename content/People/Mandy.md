@@ -1,0 +1,15 @@
+---
+type: npc
+location: Sharn
+faction: Daask
+description: Impatient bugbear criminal
+player: Max
+deceased: 
+date: 2024-03-24
+---
+![[_assets/media/People/Bugbear.png]]
+Impatient customer of [[Nibbur]], member of [[Factions/Daask]] criminal organization
+
+Charmed by [[People/Player Characters/Zinnia Rose|Zinnia]], he offered her work with Daask: She should head to Shamukaar in [[Places/Khyber's Gate]] and ask for ‘something that can fuck her up’ and tell them Mandy sent her.  
+  
+Zinnia also picked 10g off him and gave it to Nibbur

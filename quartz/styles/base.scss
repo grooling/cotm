@@ -97,6 +97,8 @@ a {
     }
   }
 
+  
+
   &.external .external-icon {
     height: 1ex;
     margin: 0 0.15em;
@@ -231,6 +233,30 @@ a {
   }
 }
 
+img:not(.Logo) {
+  cursor:zoom-in;}
+
+img:active:not(.Logo) {
+  cursor:zoom-out;
+  display:block;
+  z-index:100;
+  position:fixed;
+  max-height:100%;
+  max-width:100%;
+  height:100%;
+  width:100%;
+  object-fit: contain;
+  margin:0 auto;
+  text-align:center;
+  top: 50%;
+    transform: translateY(-50%);
+  padding:0;
+  left:0;
+  right:0;
+  bottom:0;
+  background:var(--background-primary);
+}
+
 .footnotes {
   margin-top: 2rem;
   border-top: 1px solid var(--lightgray);
@@ -273,6 +299,7 @@ blockquote {
   border-left: 3px solid var(--secondary);
   padding-left: 1rem;
   transition: border-color 0.2s ease;
+  font-family: var(--codeFont);
 }
 
 h1,
@@ -377,7 +404,7 @@ pre {
   & > code {
     background: none;
     padding: 0;
-    font-size: 0.85rem;
+    font-size: 1rem;
     counter-reset: line;
     counter-increment: line 0;
     display: grid;
@@ -541,3 +568,4 @@ ol.overflow {
   overflow-x: auto;
   overflow-y: hidden;
 }
+
