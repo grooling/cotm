@@ -4,7 +4,6 @@ description: Notes for Call of the Mournland
 ---
 ![[_assets/media/drawings/landing.png]]
 # Campaign Overview
-
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link as "No.", dateformat(date(date), "yy-MM-dd") as "Date", description as "Synopsis" WHERE contains(lower(type),"session") AND file.name != "New Session Template" SORT date DESC -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.link as "No.", dateformat(date(date), "yy-MM-dd") as "Date", description as "Synopsis" WHERE contains(lower(type),"session") AND file.name != "New Session Template" SORT date DESC -->
 
@@ -27,7 +26,6 @@ description: Notes for Call of the Mournland
 | [[Sessions/001.md\|001]] | 24-03-17 | The group meets and takes on a job to find a family heirloom.              |
 <!-- SerializedQuery END -->
 # The Party
-
 <!-- QueryToSerialize: TABLE player as "Player", description as "Description" FROM "People/Player Characters" WHERE type = "person" AND !deceased SORT file.name ASC -->
 <!-- SerializedQuery: TABLE player as "Player", description as "Description" FROM "People/Player Characters" WHERE type = "person" AND !deceased SORT file.name ASC -->
 
@@ -41,7 +39,6 @@ description: Notes for Call of the Mournland
 | [[People/Player Characters/Zinnia Rose.md\|Zinnia Rose]]                   | Spooky   | Glamorous tiefling bard from Thrane             |
 <!-- SerializedQuery END -->
 # Locations
-
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Place",  description as "Description" from "Places" WHERE contains(lower(type),"place") SORT date DESC LIMIT 6 -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.name as "Place",  description as "Description" from "Places" WHERE contains(lower(type),"place") SORT date DESC LIMIT 6 -->
 
@@ -50,7 +47,6 @@ description: Notes for Call of the Mournland
 | Metrol | The former capital of Galifar and Cyre, now ruined. |
 <!-- SerializedQuery END -->
 # People
-
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Name", location as "Location", description as "Description" from "People" WHERE type = "npc" SORT date DESC LIMIT 6 -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.name as "Name", location as "Location", description as "Description" from "People" WHERE type = "npc" SORT date DESC LIMIT 6 -->
 
@@ -65,7 +61,6 @@ description: Notes for Call of the Mournland
 <!-- SerializedQuery END -->
 
 # Treasure
-
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Item", owner as "Owner", description as "Description" from "Treasure" WHERE contains(lower(type),"treasure") SORT date DESC LIMIT 6 -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.name as "Item", owner as "Owner", description as "Description" from "Treasure" WHERE contains(lower(type),"treasure") SORT date DESC LIMIT 6 -->
 
@@ -77,7 +72,6 @@ description: Notes for Call of the Mournland
 <!-- SerializedQuery END -->
 
 # Compendium
-
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Creature", location as "Location", description as "Description" from "Compendium" WHERE contains(lower(type),"compendium") SORT date DESC -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.name as "Creature", location as "Location", description as "Description" from "Compendium" WHERE contains(lower(type),"compendium") SORT date DESC -->
 
@@ -86,7 +80,7 @@ description: Notes for Call of the Mournland
 | Ankheg    | \-       | \-                                |
 | Daelkyr   | \-       | \-                                |
 | Harpy     | \-       | Humanoids with a bestial aspect   |
-| Shifter   | \-       | Humanoids with a bestial aspect   |
 | Manticore | \-       | Humanoids with a bestial aspect   |
+| Shifter   | \-       | Humanoids with a bestial aspect   |
 | Warforged | Sharn    | Humanoid created through artifice |
 <!-- SerializedQuery END -->
