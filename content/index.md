@@ -9,7 +9,7 @@ description: Notes for Call of the Mournland
 
 | No.                      | Date     | Synopsis                                                                   |
 | ------------------------ | -------- | -------------------------------------------------------------------------- |
-| [[Sessions/015.md\|015]] | 24-07-28 | Cepha's schema, treasure, and an attack by The Blades.                     |
+| [[Sessions/015.md\|015]] | 24-07-28 | Cepha's schema, treasure, and an attack by Bonal Geldem's killer.          |
 | [[Sessions/014.md\|014]] | 24-07-26 | Puzzling temple "trial" and first meeting with Cepha the green dragon.     |
 | [[Sessions/013.md\|013]] | 24-07-14 | Traveling to Cepha's lair after discovering she raided the Dhakaani ruins. |
 | [[Sessions/012.md\|012]] | 24-07-07 | Traveling through Darguun, shopping, and Dhakaani Ruins in Khraal.         |
@@ -74,7 +74,7 @@ description: Notes for Call of the Mournland
 | Bonal's Journal and Signet Ring | \-    | \-                                                      |
 | Boots of Elvenkind              | \-    | \-                                                      |
 | Brass Dragon Scale              | \-    | \-                                                      |
-| Potion of Cloud Giant Strength  | \-    | \-                                                      |
+| Helm of Telepathy               | \-    | \-                                                      |
 <!-- SerializedQuery END -->
 
 # Compendium
