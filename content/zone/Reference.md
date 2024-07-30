@@ -1,6 +1,11 @@
 ---
 draft: false
 ---
+# Serializer
+
+```
+<!-- QueryToSerialize: QUERY HERE NO LINE BREAKS -->
+```
 # Callouts
 https://help.obsidian.md/Editing+and+formatting/Callouts
 ![[zone/_assets/callouts.png]]
@@ -51,9 +56,4 @@ flowchart
     C -->|Two| E[iPhone]
 
     C -->|Three| F[fa:fa-car Car]
-```
-# Serializer
-
-```
-<!-- QueryToSerialize: QUERY HERE NO LINE BREAKS -->
 ```

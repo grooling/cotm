@@ -8,9 +8,10 @@ House Tharashk is a human and half-orc dragonmarked house. Its members are renow
 
 House Tharashk possesses the Mark of Finding. This mark grants various magical benefits related to locating people and objects which in turn has led to their fame for bounty hunting.[4]
 # Members
+<!-- QueryToSerialize: TABLE description as "Description" FROM "People" WHERE faction = "House Tharashk" -->
+<!-- SerializedQuery: TABLE description as "Description" FROM "People" WHERE faction = "House Tharashk" -->
 
-```dataview
-TABLE description as "Description"
-FROM "People"
-WHERE faction = "House Tharashk"
-```
+| File                                                 | Description                     |
+| ---------------------------------------------------- | ------------------------------- |
+| [[People/Player Characters/Rik Roper.md\|Rik Roper]] | Kobold investigator from Droaam |
+<!-- SerializedQuery END -->

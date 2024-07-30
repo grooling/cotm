@@ -8,4 +8,4 @@ draft: false
 
 # Members
 
-<!-- QueryToSerialize: TABLE description as "Description" FROM "People" WHERE faction = FACTION -->
+<!-- QueryToSerialize: TABLE description as "Description" FROM "People" WHERE faction = "FACTION" -->

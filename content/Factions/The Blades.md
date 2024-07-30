@@ -7,5 +7,9 @@ draft: false
 ---
 ![[_assets/media/Factions/The Blades.png]]
 # Members
+<!-- QueryToSerialize: TABLE description as "Description" FROM "People" WHERE faction = "The Blades" -->
+<!-- SerializedQuery: TABLE description as "Description" FROM "People" WHERE faction = "The Blades" -->
 
-<!-- QueryToSerialize: TABLE description as "Description" FROM "People" WHERE faction = The Blades -->
+| File | Description |
+| ---- | ----------- |
+<!-- SerializedQuery END -->
