@@ -18,3 +18,7 @@ Aya denied knowing him, said he must be confusing her with a twin sister
   
 Aya lied to him and said she's headed to [[Places/Carnath]], he said he's headed there as well!
 
+Aya met Chester when she was an acrobat.
+
+Chester is a [[Compendium/Daelkyr|daelkyr]].
+
