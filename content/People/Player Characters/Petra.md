@@ -8,10 +8,10 @@ date: 2024-03-17
 ---
 ![[_assets/media/People/Petra.jpg]]
 # Bio
-**Name:** Petra 
-**Race, Class, and Level:** High Elven Wizard 1 
-**Alignment:** Chaotic Good 
-**Background:** Archaeologist 
+**Name:** Petra <br />
+**Race, Class, and Level:** High Elven Wizard 1 <br />
+**Alignment:** Chaotic Good <br />
+**Background:** Archaeologist <br />
 **Personality Traits:**
 
 - After a dull academic upbringing, the thrill of adventure and uncertainty led me away from home.
@@ -36,8 +36,11 @@ date: 2024-03-17
 - I'm easily distracted by historical artifacts.
 - Snakes terrify me.
 
-**Theme Song:** [https://www.youtube.com/watch?v=tMjRtsM0oJ0](https://www.youtube.com/watch?v=tMjRtsM0oJ0 "https://www.youtube.com/watch?v=tMjRtsM0oJ0") 
-**Playlist:** [https://www.youtube.com/playlist?list=PLqIx3qUN9RTEiv8ijiSt9qQlUbDIyfX07](https://www.youtube.com/playlist?list=PLqIx3qUN9RTEiv8ijiSt9qQlUbDIyfX07 "https://www.youtube.com/playlist?list=PLqIx3qUN9RTEiv8ijiSt9qQlUbDIyfX07")
+**Theme Song:**<br />
+Susumu Hirasawa - A Drop Filled with Memories<br />
+![https://www.youtube.com/watch?v=tMjRtsM0oJ0](https://www.youtube.com/watch?v=tMjRtsM0oJ0 "https://www.youtube.com/watch?v=tMjRtsM0oJ0") <br />
+**Playlist:**<br />
+![https://www.youtube.com/playlist?list=PLqIx3qUN9RTEiv8ijiSt9qQlUbDIyfX07](https://www.youtube.com/playlist?list=PLqIx3qUN9RTEiv8ijiSt9qQlUbDIyfX07 "https://www.youtube.com/playlist?list=PLqIx3qUN9RTEiv8ijiSt9qQlUbDIyfX07")
 # Backstory
 
 Petra is a composed, courageous individual with a wry, sarcastic sense of humor. Her reverence for her ancestors fuels her love for history, science, and art. As a practitioner of magic, alchemy, tinkering, and cartography, Petra is a polymath, and relishes working odd jobs. 

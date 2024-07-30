@@ -8,10 +8,10 @@ date: 2024-03-17
 ---
 ![[_assets/media/People/AyaAlbata.jpg]]
 # Bio
-**Name:** Aya Albata 
-**Race, Class, and Level:** Human Great Old One (Quori) Warlock 1 
-**Alignment:** Chaotic Good 
-**Background:** Haunted One (Dreamer) 
+**Name:** Aya Albata <br />
+**Race, Class, and Level:** Human Great Old One (Quori) Warlock 1 <br />
+**Alignment:** Chaotic Good <br />
+**Background:** Haunted One (Dreamer) <br />
 
 **Personality Traits:**
 - A hyperactive, mysterious weirdo with partial amnesia, severe chronic pain and neurological problems. Turns her excess energy into magic.
@@ -43,10 +43,12 @@ date: 2024-03-17
 - Always in pain. So much pain. Doesn’t flinch as easily at acute injuries as a result.
 - Not convinced that mindreading is an uncommon ability.
 - Sometimes overlooks obvious solutions in favour of complicated ones.
-- 
-**Theme Songs:** 
-Dance Monkey – Tones and I (upbeat?) [https://www.youtube.com/watch?v=4nsORR-kkOg](https://www.youtube.com/watch?v=4nsORR-kkOg "https://www.youtube.com/watch?v=4nsORR-kkOg") 
-Make Believe – Memphis May Fire (angsty) [https://www.youtube.com/watch?v=nLU3EzJCpA8](https://www.youtube.com/watch?v=nLU3EzJCpA8 "https://www.youtube.com/watch?v=nLU3EzJCpA8") 
+
+**Theme Songs:**<br />
+Dance Monkey – Tones and I (upbeat?)<br />
+![https://www.youtube.com/watch?v=4nsORR-kkOg](https://www.youtube.com/watch?v=4nsORR-kkOg "https://www.youtube.com/watch?v=4nsORR-kkOg") <br />
+Make Believe – Memphis May Fire (angsty)<br />
+![https://www.youtube.com/watch?v=nLU3EzJCpA8](https://www.youtube.com/watch?v=nLU3EzJCpA8 "https://www.youtube.com/watch?v=nLU3EzJCpA8") 
 # Backstory
 An accident put her in a coma for several years. Only remembers roaming around the realms of dreams and madness before waking back up on Eberron. Doesn’t know her past but does know her patron very well. 
 

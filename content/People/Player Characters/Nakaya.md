@@ -8,9 +8,9 @@ date: 2024-02-25
 ---
 ![[_assets/media/People/Nakaya.webp]]
 # Bio
-**Name:** Nakaya 
-**Race, Class, and Level:** White Chromatic Dragonborn Ranger, Level 1 
-**Alignment:** Neutral Good 
+**Name:** Nakaya <br />
+**Race, Class, and Level:** White Chromatic Dragonborn Ranger, Level 1 <br />
+**Alignment:** Neutral Good <br />
 **Background:**
 
 - Hunting and gathering
@@ -38,8 +38,6 @@ date: 2024-02-25
 - I am so excited to be an adventurer, and my positive, encouraging attitude can make interrogations difficult.
 - I trust people around me quickly, which can lead to me being fooled from time to time.
 
-**Backstory Details:** See Below 
-
 **Appearance:**  
 
 - Age: 15
@@ -51,7 +49,9 @@ date: 2024-02-25
 - Explore the world and help others along the way
 - Follow in her grandparents' footsteps as adventurers so she can pass down her stories and skills to future generations
 
-**Theme Song:** [https://youtu.be/vkHnjYMnJUA?si=UEQ5FKNHeaJF4FPv](https://youtu.be/vkHnjYMnJUA?si=UEQ5FKNHeaJF4FPv "https://youtu.be/vkHnjYMnJUA?si=UEQ5FKNHeaJF4FPv") (edited)
+**Theme Song:**<br />
+Andy Leech - The Journey<br />
+![https://youtu.be/vkHnjYMnJUA?si=UEQ5FKNHeaJF4FPv](https://youtu.be/vkHnjYMnJUA?si=UEQ5FKNHeaJF4FPv "https://youtu.be/vkHnjYMnJUA?si=UEQ5FKNHeaJF4FPv")
 
 # Backstory
 
@@ -67,10 +67,28 @@ Nakaya loved to learn and spent as much time as she could listening to her famil
 
 
 # Connections
-Mother: Rosette 
-Father: Rime 
-Brother: RC (Rimed Crystals) 
-Maternal Grandmother: Dendrite 
-Maternal Grandfather: Fern 
-Paternal Grandmother: Frost Flower 
-Paternal Grandfather: Ukichiro
+```mermaid
+flowchart BT
+
+id1{{Nakaya}} & id8{{"Rimed Crystals ''RC''
+
+Brother"}} --- id9{{ }}
+
+id9 --- id2{{"Rosette
+
+Mother"}} --- id4{{"Dendrite
+
+Maternal Grandmother"}} & id5{{"Fern
+
+Maternal Grandfather"}}
+
+id9 --- id3{{"Rime
+
+Father"}} --- id6{{"Frost Flower
+
+Paternal Grandmother"}} & id7{{"Ukichiro,
+
+Paternal Grandfather"}}
+
+
+```

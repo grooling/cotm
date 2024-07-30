@@ -8,10 +8,10 @@ date: 2024-02-25
 ---
 ![[_assets/media/People/Rik_Roper.png]]
 # Bio
-**Name:** Rik Roper 
-**Race, Class, and Level:** Kobold Rogue Level 1 
-**Alignment:** Chaotic Good 
-**Background:** Investigator 
+**Name:** Rik Roper <br />
+**Race, Class, and Level:** Kobold Rogue Level 1 <br />
+**Alignment:** Chaotic Good <br />
+**Background:** Investigator <br />
 **Personality Traits:**
 
 - It doesn't matter if the whole world's against me. I'll always do what I think is right.
@@ -32,9 +32,13 @@ date: 2024-02-25
 - I know the ends justify the means and am quick to make sacrifices to attain my goals.
 - I've got a reputation to uphold and will do whatever it takes to maintain it. It's just good business.
 
-**Appearance:** Red scaly skin, fiery orange eyes, dark navy pants and vest, purple shirt, trench coat, wide-brimmed hat, hand-rolled cigarettes. 
-**Character Arc:** ??? 
-**Theme Song:** [https://www.youtube.com/watch?v=0fDQulGXKUs](https://www.youtube.com/watch?v=0fDQulGXKUs "https://www.youtube.com/watch?v=0fDQulGXKUs")
+**Appearance:**<br />
+Red scaly skin, fiery orange eyes, dark navy pants and vest, purple shirt, trench coat, wide-brimmed hat, hand-rolled cigarettes. <br />
+**Character Arc:**<br />
+??? <br />
+**Theme Song:**<br />
+Martin O'Donnell and Michael Salvatori - Asphalt and Ablution<br />
+![https://www.youtube.com/watch?v=0fDQulGXKUs](https://www.youtube.com/watch?v=0fDQulGXKUs "https://www.youtube.com/watch?v=0fDQulGXKUs")
 
 # Backstory
 Growing up in Droaam, Rik was hired by House Tharashk as a scout during the Last War. Sensing an opportunity to give a good name for monstrous folk everywhere, Rik opened up a licensed inquisitive agency in Sharn. He developed a knack for cracking cases for monstrous folk with nowhere else to turn. While he may rub the police the wrong way, they can't argue with his results. 
