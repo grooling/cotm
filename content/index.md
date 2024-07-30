@@ -39,12 +39,13 @@ description: Notes for Call of the Mournland
 | [[People/Player Characters/Zinnia Rose.md\|Zinnia Rose]]                   | Spooky   | Glamorous tiefling bard from Thrane             |
 <!-- SerializedQuery END -->
 # Locations
-<!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Place",  description as "Description" from "Places" WHERE contains(lower(type),"place") SORT date DESC LIMIT 6 -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.name as "Place",  description as "Description" from "Places" WHERE contains(lower(type),"place") SORT date DESC LIMIT 6 -->
+<!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Place", nation as "Nation", description as "Description" from "Places" WHERE contains(lower(type),"place") SORT date -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.name as "Place", nation as "Nation", description as "Description" from "Places" WHERE contains(lower(type),"place") SORT date -->
 
-| Place  | Description                                         |
-| ------ | --------------------------------------------------- |
-| Metrol | The former capital of Galifar and Cyre, now ruined. |
+| Place  | Nation  | Description                                         |
+| ------ | ------- | --------------------------------------------------- |
+| Metrol | \-      | The former capital of Galifar and Cyre, now ruined. |
+| Sharn  | Breland | The most populous city in all of Khorvaire          |
 <!-- SerializedQuery END -->
 # People
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Name", location as "Location", description as "Description" from "People" WHERE type = "npc" SORT date DESC LIMIT 6 -->
