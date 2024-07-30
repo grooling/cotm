@@ -1,7 +1,7 @@
 ---
 title: Onatar
-description: Deity of the Sovereign Host - Forge and Knowledge domains
+description: Deity of artifice and the forge
 date: 2024-07-29
-draft: true
+draft: false
 ---
 ![[_assets/media/Onatar.webp]]
