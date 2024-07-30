@@ -6,3 +6,4 @@ description:
 date: 2024-07-26
 draft: false
 ---
+![[_assets/media/Compendium/Ankheg.png]]

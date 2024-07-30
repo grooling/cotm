@@ -5,7 +5,7 @@ description: Longbow with magical candle
 owner: Nakaya
 date: 2024-06-09
 ---
-![[_assets/media/Treasure/Candleflame-Bow.png]]
+![[_assets/media/Items/Candleflame-Bow.png]]
 Found in Dwarven magma chamber
 Made by Burbon
 Owned by Nakaya

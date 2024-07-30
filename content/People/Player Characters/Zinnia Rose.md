@@ -34,6 +34,23 @@ I was abandoned as a baby and left to the care of The Church of the Silver Flame
 
 (**Secret Backstory**) 
 I am from Tronish and was there when The Mourning happened. I do not know what happened or how I survived but somehow I walked out from the mists on the eastern side of Cyre where I was picked up by the Darguun military. Malnourished and catatonic I gave no response for weeks, but I began to regain mobility of mind and body when I heard the accordion for the first time. That's how I found my calling as an entertainer. **Appearance:** Average height and thin with flawless pink skin like smooth strawberry ice cream. Flowing fuchsia colored hair that almost seems to move of its own accord. Tall semi-spiraling ivory white horns and ivory white nails with tiny hearts. Small tiny black heart tattoos below her eyes.
+
+# Shiftweave Outfits
+> [!important]- Red Dress
+> ![[_assets/media/Items/Red Dress.bmp]]
+
+> [!important]- Polka Dot Dress
+> ![[_assets/media/Items/Polka Dot Dress.jpg]]
+
+> [!important]- Smart Suit
+> ![[_assets/media/Items/Smart Suit.jpg]]
+
+> [!important]- Flapper Dress
+> ![[_assets/media/Items/Flapper Dress.jpg]]
+
+> [!important]- Tuxedo with Tailcoat and Top Hat
+> ![[_assets/media/Items/Tuxedo and Tailcoat.jpg]]
+
 # Notes
 
 

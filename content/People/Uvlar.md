@@ -7,4 +7,4 @@ player: Max
 deceased: 
 date: 2024-05-19
 ---
-![[_assets/media/People/Uvlar.png]]
+![[_assets/media/People/Uvlar.jpg]]

@@ -5,7 +5,7 @@ description: Storage bag with magically increased capacity
 owner: Nakaya
 date: 2024-07-07
 ---
-![[_assets/media/Treasure/Bag of Holding.png]]
+![[_assets/media/Items/Bag of Holding.jpeg]]
 
 Found on Lightning Rail Train
 

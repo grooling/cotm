@@ -2,7 +2,7 @@
 type: person
 location: Endworld Mountains
 faction: 
-description: White dragonborn ranger from Endworld Mountains
+description: White dragonborn ranger from Q'barra
 player: Lizz
 date: 2024-02-25
 ---

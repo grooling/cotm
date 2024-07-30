@@ -39,6 +39,10 @@ date: 2024-02-25
 # Backstory
 Growing up in Droaam, Rik was hired by House Tharashk as a scout during the Last War. Sensing an opportunity to give a good name for monstrous folk everywhere, Rik opened up a licensed inquisitive agency in Sharn. He developed a knack for cracking cases for monstrous folk with nowhere else to turn. While he may rub the police the wrong way, they can't argue with his results. 
 
+# Masquerade Tattoo
+As an action, you can use the tattoo to cast the Disguise Self spell (DC 13 to discern the disguise). Once the spell is cast from the tattoo, it can't be cast from the tattoo again until the next dawn. 
+ ![[_assets/media/Items/Tragedy Comedy Tattoo.png]]
+
 # Notes
 
 

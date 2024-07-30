@@ -19,3 +19,17 @@ House Cannith possesses the Mark of Making. This mark grants various magical ben
 | [[People/Tumrek d'Cannith.md\|Tumrek d'Cannith]]                         | Jolly dwarven artificer, friend of Kanxith's from Sharn |
 <!-- SerializedQuery END -->
 
+# Sub-Factions
+House Cannith split into three factions after the Day of Mourning:
+## Cannith South
+Led by Merrix d'Cannith
+
+Kanxith and Tumrek are members.
+## Cannith East
+Led by Zorlan d'Cannith
+
+Tumrek says their use of undead is creepy.
+## Cannith West
+Led by Jorlanna d'Cannith
+
+Lady Elaydren d'Vown is a member.

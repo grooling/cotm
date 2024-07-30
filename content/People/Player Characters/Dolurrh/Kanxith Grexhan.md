@@ -23,6 +23,7 @@ deceased: true
 **Theme Song:** The Whistler- Jethro Tull [https://www.youtube.com/watch?v=2mBaE-K4RxI](https://www.youtube.com/watch?v=2mBaE-K4RxI "https://www.youtube.com/watch?v=2mBaE-K4RxI")
 
 # Notes
-
+Works with Cannith South
+Fell to jug snakes in Darguun dwarven temple ruins.
 
 # Connections

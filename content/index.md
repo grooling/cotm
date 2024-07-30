@@ -29,23 +29,25 @@ description: Notes for Call of the Mournland
 <!-- QueryToSerialize: TABLE player as "Player", description as "Description" FROM "People/Player Characters" WHERE type = "person" AND !deceased SORT file.name ASC -->
 <!-- SerializedQuery: TABLE player as "Player", description as "Description" FROM "People/Player Characters" WHERE type = "person" AND !deceased SORT file.name ASC -->
 
-| File                                                                       | Player   | Description                                     |
-| -------------------------------------------------------------------------- | -------- | ----------------------------------------------- |
-| [[People/Player Characters/Aya Albata.md\|Aya Albata]]                     | Aly      | Human courier warlock from forgotten past       |
-| [[People/Player Characters/Bariac Cast-Ironfist.md\|Bariac Cast-Ironfist]] | Montana  | Dwarven chef and cleric of Boldrei              |
-| [[People/Player Characters/Nakaya.md\|Nakaya]]                             | Lizz     | White dragonborn ranger from Endworld Mountains |
-| [[People/Player Characters/Petra.md\|Petra]]                               | zorra    | Elven archaeologist wizard from Aerenal         |
-| [[People/Player Characters/Rik Roper.md\|Rik Roper]]                       | Hooligan | Kobold investigator from Droaam                 |
-| [[People/Player Characters/Zinnia Rose.md\|Zinnia Rose]]                   | Spooky   | Glamorous tiefling bard from Thrane             |
+| File                                                                       | Player   | Description                               |
+| -------------------------------------------------------------------------- | -------- | ----------------------------------------- |
+| [[People/Player Characters/Aya Albata.md\|Aya Albata]]                     | Aly      | Human courier warlock from forgotten past |
+| [[People/Player Characters/Bariac Cast-Ironfist.md\|Bariac Cast-Ironfist]] | Montana  | Dwarven chef and cleric of Boldrei        |
+| [[People/Player Characters/Nakaya.md\|Nakaya]]                             | Lizz     | White dragonborn ranger from Q'barra      |
+| [[People/Player Characters/Petra.md\|Petra]]                               | zorra    | Elven archaeologist wizard from Aerenal   |
+| [[People/Player Characters/Rik Roper.md\|Rik Roper]]                       | Hooligan | Kobold investigator from Droaam           |
+| [[People/Player Characters/Zinnia Rose.md\|Zinnia Rose]]                   | Spooky   | Glamorous tiefling bard from Thrane       |
 <!-- SerializedQuery END -->
 # Locations
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Place", nation as "Nation", description as "Description" from "Places" WHERE contains(lower(type),"place") SORT date -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.name as "Place", nation as "Nation", description as "Description" from "Places" WHERE contains(lower(type),"place") SORT date -->
 
-| Place  | Nation  | Description                                         |
-| ------ | ------- | --------------------------------------------------- |
-| Metrol | \-      | The former capital of Galifar and Cyre, now ruined. |
-| Sharn  | Breland | The most populous city in all of Khorvaire          |
+| Place         | Nation  | Description                                                   |
+| ------------- | ------- | ------------------------------------------------------------- |
+| Metrol        | Cyre    | The former capital of Galifar and Cyre, now ruined.           |
+| Sharn         | Breland | The most populous city in all of Khorvaire                    |
+| Sterngate     | Breland | Fortress at border between Sharn and Darguun                  |
+| Rhukaan Draal | Darguun | A sprawling goblinoid metropolis and capital city of Darguun. |
 <!-- SerializedQuery END -->
 # People
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Name", location as "Location", description as "Description" from "People" WHERE type = "npc" SORT date DESC LIMIT 6 -->
@@ -65,23 +67,31 @@ description: Notes for Call of the Mournland
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Item", owner as "Owner", description as "Description" from "Treasure" WHERE contains(lower(type),"treasure") SORT date DESC LIMIT 6 -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.name as "Item", owner as "Owner", description as "Description" from "Treasure" WHERE contains(lower(type),"treasure") SORT date DESC LIMIT 6 -->
 
-| Item            | Owner  | Description                                        |
-| --------------- | ------ | -------------------------------------------------- |
-| Bag of Holding  | Nakaya | Storage bag with magically increased capacity      |
-| Candleflame Bow | Nakaya | Longbow with magical candle                        |
-| Schema          | Party  | Mithral artefacts storing ancient artifice schemas |
+| Item                            | Owner | Description                                             |
+| ------------------------------- | ----- | ------------------------------------------------------- |
+| Arcane Corruption Device        | \-    | \-                                                      |
+| Bonal's Journal and Signet Ring | \-    | \-                                                      |
+| Brass Dragon Scale              | \-    | \-                                                      |
+| Ancient Map                     | \-    | Old map discovered in House Cannith ruins beneath Sharn |
+| Potion of Cloud Giant Strength  | \-    | \-                                                      |
+| Boots of Elvenkind              | \-    | \-                                                      |
 <!-- SerializedQuery END -->
 
 # Compendium
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Creature", location as "Location", description as "Description" from "Compendium" WHERE contains(lower(type),"compendium") SORT date DESC -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.name as "Creature", location as "Location", description as "Description" from "Compendium" WHERE contains(lower(type),"compendium") SORT date DESC -->
 
-| Creature  | Location | Description                       |
-| --------- | -------- | --------------------------------- |
-| Ankheg    | \-       | \-                                |
-| Daelkyr   | \-       | \-                                |
-| Harpy     | \-       | Humanoids with a bestial aspect   |
-| Manticore | \-       | Humanoids with a bestial aspect   |
-| Shifter   | \-       | Humanoids with a bestial aspect   |
-| Warforged | Sharn    | Humanoid created through artifice |
+| Creature          | Location | Description                                                  |
+| ----------------- | -------- | ------------------------------------------------------------ |
+| Mechanical Dog    | Sharn    | Metallic construct that resembles a canine.                  |
+| Chwinga           | \-       | \-                                                           |
+| Gibbering Mouther | Khraal   | \-                                                           |
+| Dolgrim           | \-       | \-                                                           |
+| Kobold            | \-       | \-                                                           |
+| Ankheg            | \-       | \-                                                           |
+| Daelkyr           | \-       | \-                                                           |
+| Harpy             | Darguun  | Monstrous humanoid known for its entrancing voice and wings. |
+| Manticore         | \-       | Humanoids with a bestial aspect                              |
+| Shifter           | \-       | Humanoids with a bestial aspect                              |
+| Warforged         | Sharn    | Humanoid created through artifice                            |
 <!-- SerializedQuery END -->

@@ -3,18 +3,13 @@ excalidraw-plugin: parsed
 draft: true
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-# Calendar
-
-```calendarium
-```
 # Excalidraw Data
 ## Text Elements
 ## Embedded Files
 7db397b6a212ef4dd5da8dd21815a2efe5e9f61c: [[_assets/media/drawings/_assets/pushpin.png]]
 1f1d95184e1bb5dcede87bcf79f1886727a0593e: [[_assets/media/drawings/_assets/ticket.png]]
 69c75abd7ce1fe787c8448a80c51fb9838ed10da: [[_assets/media/drawings/_assets/Korranberg Chronicle.png]]
-159dac6bcb15e5b89604d238d3d0c97c17c26950: [[_assets/media/Places/D&D_-_4th_Edition_-_Eberron_Map_Khorvaire.png]]
+159dac6bcb15e5b89604d238d3d0c97c17c26950: [[_assets/media/Places/Khorvaire Map.png]]
 a1db2023d4e388c9260ef19f7f12ebabcc7c669b: [[_assets/media/Places/Eberron World Map.png]]
 5371e9e7d79b0c5c0c87bf282d49e7d04bec6a35: [[_assets/media/drawings/_assets/Calendar.png]]
 0c1850f55ec5c7a9030be06553f2e539b5779efa: [[_assets/media/drawings/_assets/circle.png]]

@@ -7,7 +7,7 @@ player: Max
 deceased: 
 date: 2024-05-05
 ---
-![[_assets/media/People/Galin_Springbranch.png]]
+![[_assets/media/People/Galin_Springbranch.jpg]]
 Met on the Lightning rail train
 
 Was muttering to himself, remarking on Kanxith and party members as they entered the dining car

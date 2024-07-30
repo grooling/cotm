@@ -8,16 +8,6 @@ deceased:
 date: 2024-04-28
 ---
 ![[_assets/media/People/Tumrek d'Cannith.png]]
-Artificer dwarf with a mechanical arm, likes hugging  
+Tumrek d'Cannith is a childhood friend of Kanxith's. He is a dwarven artificer with a mechanical arm that loves hugging. He lives in a cramped workshop in The Cogs district below The Lower City of Sharn. Like Kanxith, he is a member of [[House Cannith]] South. He doesn't view House Cannith as that separated, although he does think Cannith East's use of undead is creepy.
   
-Lives in a cramped workshop in The Cogs district
-
-He thinks House Cannith East's use of undead is creepy  
-  
-We showed him the schema, journal, and ring  
-  
-The mechanical arm from the schema reminded him of the Colussi used in the war, but even more complicated
-
-Childhood friend of [[Kanxith Grexhan|Kanxith]]'s  
-  
-Member of [[House Cannith]] South 
+We showed him the schema, journal, and ring. The mechanical arm from the schema reminded him of the Colussi used in the war, but even more complicated. He confirmed that it is a weapon.

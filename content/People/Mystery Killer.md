@@ -9,4 +9,5 @@ faction:
 player: Max
 deceased:
 ---
+![[_assets/media/People/Mystery Killer.jpg]]
 ![[_assets/media/People/Hooded_Orc.png]]

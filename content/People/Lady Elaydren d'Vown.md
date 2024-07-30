@@ -8,10 +8,8 @@ deceased:
 date: 2024-03-17
 ---
 ![[_assets/media/People/Lady Elaydren d'Vown.bmp]]
-Hired the party to find her family heirloom: an adamantine plate shaped like a seven-pointed star  
+Human noblewoman that hired the party to find her family heirloom: an adamantine plate shaped like a seven-pointed star. Kanxith noticed she was wearing a [[Factions/House Cannith|House Cannith]] signet ring. She works with House Cannith West. She originally hired [[Bonal Geldem]] to help find her family heirloom. 
   
-Previously employed [[Bonal Geldem]] regarding finding heirloom  
-  
-Seems to have a very competent bodyguard
+Seems to have a very competent bodyguard, who knocked Rik out when he tried to pursue Lady d'Vown after the first meeting at [[Places/Sharn#The Broken Anvil Tavern|The Broken Anvil]].
 
 

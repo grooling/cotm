@@ -1,14 +1,15 @@
 ---
 type: treasure
 location: Darguun
-description: Mithral artefacts storing ancient artifice schemas
+description: Adamantine artefacts storing ancient artifice schemas
 owner: Party
 date: 2024-03-31
 ---
-![[_assets/media/Treasure/schema.png]]
+![[_assets/media/Items/schema.png]]
 ## Seven Pointed Star
-Stolen from Ancient Cannith ruins/Lady Elaydren d'Vown
+Discovered in [[Places/Sharn#House Cannith Ruins|House Cannith Ruins beneath Sharn]]. Stolen from Lady Elaydren d'Vown. Identified by [[People/Arguth|Arguth]] who revealed it was a very rare object containing a schema. After a couple days work, he activated the schema, revealing a hologram of a giant mechanical clawed arm, with words resembling binary flitting about.
 
+The mechanical arm from the schema reminded [[Tumrek d'Cannith]] of the Colussi used in the war, but even more complicated. He confirmed that it is a weapon.
 ## Second Schema
 
 
