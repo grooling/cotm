@@ -32,7 +32,7 @@ Average height and thin with flawless pink skin like smooth strawberry ice cream
 
 **Theme Song** <br />
 Addie Hamilton and Post Modern Jukebox - Never Forget You (cover)
-![https://www.youtube.com/watch?v=C4PEN9AU_tM](https://www.youtube.com/watch?v=C4PEN9AU_tM "https://www.youtube.com/watch?v=C4PEN9AU_tM")
+![480|https://www.youtube.com/watch?v=C4PEN9AU_tM](https://www.youtube.com/watch?v=C4PEN9AU_tM "https://www.youtube.com/watch?v=C4PEN9AU_tM")
 # Backstory
 
 I was abandoned as a baby and left to the care of The Church of the Silver Flame and raised in the town of Rellekor. I began my career as an entertainer singing church hymns and was lauded for my angelic voice. The devil with the voice of the angel they used to say. When I reached adulthood I began to pursue acting and hooked up with a traveling vaudeville act that would entertain troops all over Eberron. Eventually a time came where I felt the need to breakout on my own and I left for the city of Sharn. 

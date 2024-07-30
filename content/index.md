@@ -56,11 +56,11 @@ description: Notes for Call of the Mournland
 | Name               | Location  | Description                                              |
 | ------------------ | --------- | -------------------------------------------------------- |
 | Uvlar              | Sterngate | Bugbear mercenary band captain                           |
-| Edrin              | \-        | Human cleric of the Church of the Silver Flame           |
+| Edrin              | Thrane    | Human cleric of the Church of the Silver Flame           |
 | Felicia Bladefall  | \-        | Human merchant from Lightning Rail Train                 |
 | Galin Springbranch | Zilagro   | Inquisitive gnome that gifted party bronze dragon scales |
 | Victor d'Vadalis   | \-        | Snake handler of House Vadalis from Lightning Rail Train |
-| Chester            | Sharn     | Dramatic clown stalking Aya in Sharn                     |
+| Chester            | Sharn     | Dramatic daelkyr jester stalking Aya in Sharn            |
 <!-- SerializedQuery END -->
 
 # Treasure
@@ -69,12 +69,12 @@ description: Notes for Call of the Mournland
 
 | Item                            | Owner | Description                                             |
 | ------------------------------- | ----- | ------------------------------------------------------- |
+| Ancient Map                     | \-    | Old map discovered in House Cannith ruins beneath Sharn |
 | Arcane Corruption Device        | \-    | \-                                                      |
 | Bonal's Journal and Signet Ring | \-    | \-                                                      |
-| Brass Dragon Scale              | \-    | \-                                                      |
-| Ancient Map                     | \-    | Old map discovered in House Cannith ruins beneath Sharn |
-| Potion of Cloud Giant Strength  | \-    | \-                                                      |
 | Boots of Elvenkind              | \-    | \-                                                      |
+| Brass Dragon Scale              | \-    | \-                                                      |
+| Potion of Cloud Giant Strength  | \-    | \-                                                      |
 <!-- SerializedQuery END -->
 
 # Compendium
@@ -83,15 +83,16 @@ description: Notes for Call of the Mournland
 
 | Creature          | Location | Description                                                  |
 | ----------------- | -------- | ------------------------------------------------------------ |
-| Mechanical Dog    | Sharn    | Metallic construct that resembles a canine.                  |
 | Chwinga           | \-       | \-                                                           |
-| Gibbering Mouther | Khraal   | \-                                                           |
+| Clockwork Leech   | \-       | \-                                                           |
 | Dolgrim           | \-       | \-                                                           |
+| Gibbering Mouther | Khraal   | \-                                                           |
 | Kobold            | \-       | \-                                                           |
+| Mechanical Dog    | Sharn    | Metallic construct that resembles a canine.                  |
 | Ankheg            | \-       | \-                                                           |
 | Daelkyr           | \-       | \-                                                           |
 | Harpy             | Darguun  | Monstrous humanoid known for its entrancing voice and wings. |
-| Manticore         | \-       | Humanoids with a bestial aspect                              |
+| Manticore         | Darguun  | Large monstrosity with vaguely human face.                   |
 | Shifter           | \-       | Humanoids with a bestial aspect                              |
 | Warforged         | Sharn    | Humanoid created through artifice                            |
 <!-- SerializedQuery END -->
