@@ -25,7 +25,6 @@ description: Notes for Call of the Mournland
 | [[Sessions/002.md\|002]] | 24-03-24 | Finding and exploring the sewers in search of the heirloom.                |
 | [[Sessions/001.md\|001]] | 24-03-17 | The group meets and takes on a job to find a family heirloom.              |
 <!-- SerializedQuery END -->
-
 # The Party
 <!-- QueryToSerialize: TABLE player as "Player", description as "Description" FROM "People/Player Characters" WHERE type = "person" AND !deceased SORT file.name ASC -->
 <!-- SerializedQuery: TABLE player as "Player", description as "Description" FROM "People/Player Characters" WHERE type = "person" AND !deceased SORT file.name ASC -->
@@ -39,7 +38,6 @@ description: Notes for Call of the Mournland
 | [[People/Player Characters/Rik Roper.md\|Rik Roper]]                       | Hooligan | Kobold investigator from Droaam           |
 | [[People/Player Characters/Zinnia Rose.md\|Zinnia Rose]]                   | Spooky   | Glamorous tiefling bard from Thrane       |
 <!-- SerializedQuery END -->
-
 # Locations
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Place", nation as "Nation", description as "Description" from "Places" WHERE contains(lower(type),"place") SORT date DESC -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.name as "Place", nation as "Nation", description as "Description" from "Places" WHERE contains(lower(type),"place") SORT date DESC -->
@@ -51,7 +49,6 @@ description: Notes for Call of the Mournland
 | Sharn         | Breland | The most populous city in all of Khorvaire                   |
 | Sterngate     | Breland | Fortress at border between Sharn and Darguun                 |
 <!-- SerializedQuery END -->
-
 # People
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Name", location as "Location", description as "Description" from "People" WHERE type = "npc" SORT date DESC -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.name as "Name", location as "Location", description as "Description" from "People" WHERE type = "npc" SORT date DESC -->
@@ -73,7 +70,6 @@ description: Notes for Call of the Mournland
 | Bonal Geldem         | Sharn     | Human provost of Morgrave University and professor of pre-Galifar studies |
 | Lady Elaydren d'Vown | Sharn     | Human noblewoman of House Cannith in Sharn                                |
 <!-- SerializedQuery END -->
-
 # Treasure
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Item", owner as "Owner", description as "Description" from "Treasure" WHERE contains(lower(type),"treasure") SORT date DESC -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.name as "Item", owner as "Owner", description as "Description" from "Treasure" WHERE contains(lower(type),"treasure") SORT date DESC -->
@@ -91,7 +87,6 @@ description: Notes for Call of the Mournland
 | Arcane Corruption Device        | Petra  | Broken arcane device corrupting warforged             |
 | Cannith Journal and Signet Ring | Petra  | Cannith journal and ring taken from Bonal Geldem      |
 <!-- SerializedQuery END -->
-
 # Compendium
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Creature", location as "Location", description as "Description" from "Compendium" WHERE contains(lower(type),"compendium") SORT date DESC -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.name as "Creature", location as "Location", description as "Description" from "Compendium" WHERE contains(lower(type),"compendium") SORT date DESC -->
@@ -102,25 +97,8 @@ description: Notes for Call of the Mournland
 | Clockwork leech   | Darguun  | Clockwork construction with the appearance of enormous leech |
 | Dolgrim           | Darguun  | Aberration created by merging two goblin bodies              |
 | Gibbering mouther | Darguun  | Incoherent amorphous mounds of flesh and orifices            |
-| Kobold            | Darguun  | Small-sized reptilian humanoids                              |
 | Mechanical dog    | Sharn    | Metallic construct that resembles a canine                   |
-| Ankheg            | Darguun  | Large burrowing insectoid creatures                          |
-| Daelkyr           | Xoriat   | Extraplanar creatures who appear unnaturally beautiful       |
-| Harpy             | Darguun  | Monstrous humanoid known for its entrancing voice and wings  |
-| Manticore         | Darguun  | Large monstrosity with vaguely human face                    |
-| Shifter           | Sharn    | Humanoids with a bestial aspect                              |
-| Warforged         | Sharn    | Humanoid created through artifice                            |
-<!-- SerializedQuery END -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.name as "Creature", location as "Location", description as "Description" from "Compendium" WHERE contains(lower(type),"compendium") SORT date DESC -->
-
-| Creature          | Location | Description                                                  |
-| ----------------- | -------- | ------------------------------------------------------------ |
-| Chwinga           | Darguun  | Small, shy spirits found in remote locations                 |
-| Clockwork leech   | Darguun  | Clockwork construction with the appearance of enormous leech |
-| Dolgrim           | Darguun  | Aberration created by merging two goblin bodies              |
-| Gibbering mouther | Darguun  | Incoherent amorphous mounds of flesh and orifices            |
 | Kobold            | Darguun  | Small-sized reptilian humanoids                              |
-| Mechanical dog    | Sharn    | Metallic construct that resembles a canine                   |
 | Ankheg            | Darguun  | Large burrowing insectoid creatures                          |
 | Daelkyr           | Xoriat   | Extraplanar creatures who appear unnaturally beautiful       |
 | Harpy             | Darguun  | Monstrous humanoid known for its entrancing voice and wings  |
