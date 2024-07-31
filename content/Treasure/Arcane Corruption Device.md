@@ -1,11 +1,11 @@
 ---
-title: 
+title: Arcane Corruption Device
 type: treasure
-description: 
-date: 2024-07-30
+description: Broken arcane device corrupting warforged
+date: 2024-03-17
 draft: false
-location: 
-owner:
+location: Sharn
+owner: Petra
 ---
 A flat box with no clear button to turn it on, and no maker's markings on it. It is cracked and broken and inside some crystals can be seen. 
 

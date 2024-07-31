@@ -1,10 +1,10 @@
 ---
-title: 
+title: Kobold
 type: compendium
-description: 
+description: Small-sized reptilian humanoids
 date: 2024-07-30
 draft: false
-location:
+location: Darguun
 ---
 ![[_assets/media/Compendium/Kobold Artificer.png]]
 

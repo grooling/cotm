@@ -1,10 +1,10 @@
 ---
-title: 
+title: Sergeant Dolom
 type: person
-description: 
-date: 2024-07-30
+description: Sergeant in Sharn
+date: 2024-04-14
 draft: false
-location: 
+location: Sharn
 faction: 
 player: Max
 deceased:

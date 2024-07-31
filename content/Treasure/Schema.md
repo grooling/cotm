@@ -1,9 +1,11 @@
 ---
+title: Schemas
 type: treasure
-location: Darguun
 description: Adamantine artefacts storing ancient artifice schemas
-owner: Party
 date: 2024-03-31
+draft: 
+location: Darguun
+owner: Party
 ---
 ![[_assets/media/Items/schema.png]]
 ## Seven Pointed Star

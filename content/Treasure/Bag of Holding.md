@@ -1,9 +1,11 @@
 ---
+title: Bag of Holding
 type: treasure
-location: Sharn
 description: Storage bag with magically increased capacity
-owner: Nakaya
 date: 2024-07-07
+draft: 
+location: Lightning Rail Train
+owner: Nakaya
 ---
 ![[_assets/media/Items/Bag of Holding.jpeg]]
 

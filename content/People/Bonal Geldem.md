@@ -2,7 +2,7 @@
 type: npc
 location: Sharn
 faction: 
-description: Deceased human provost of Morgrave University and professor of pre-Galifar studies
+description: Human provost of Morgrave University and professor of pre-Galifar studies
 player: Max
 deceased: true
 date: 2024-03-17

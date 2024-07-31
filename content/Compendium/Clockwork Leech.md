@@ -1,9 +1,9 @@
 ---
-title: Clockwork Leech
+title: Clockwork leech
 type: compendium
-description: 
+description: Clockwork construction with the appearance of enormous leech
 date: 2024-07-30
 draft: false
-location:
+location: Darguun
 ---
-![[_assets/media/Clockwork Leech.png]]
+![[_assets/media/Compendium/Clockwork Leech.png]]

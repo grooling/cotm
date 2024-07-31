@@ -1,7 +1,7 @@
 ---
 title: Metrol
 type: place
-description: The former capital of Galifar and Cyre, now ruined.
+description: The former capital of Galifar and Cyre, now ruined
 date: 2024-03-17
 continent: Khorvaire
 nation: Cyre

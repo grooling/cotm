@@ -1,9 +1,9 @@
 ---
-title: 
+title: Chwinga
 type: compendium
-description: 
+description: Small, shy spirits found in remote locations
 date: 2024-07-30
 draft: false
-location:
+location: Darguun
 ---
 ![[_assets/media/Compendium/Chwinga.png]]

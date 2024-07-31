@@ -1,9 +1,11 @@
 ---
+title: Candleflame Bow
 type: treasure
-location: Darguun
 description: Longbow with magical candle
-owner: Nakaya
+draft: 
 date: 2024-06-09
+location: Darguun
+owner: Nakaya
 ---
 ![[_assets/media/Items/Candleflame-Bow.png]]
 Found in Dwarven magma chamber

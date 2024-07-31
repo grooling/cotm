@@ -1,7 +1,7 @@
 ---
 title: Rhukaan Draal
 type: place
-description: A sprawling goblinoid metropolis and capital city of Darguun.
+description: A sprawling goblinoid metropolis and capital city of Darguun
 date: 2024-07-30
 draft: false
 continent: Khorvaire

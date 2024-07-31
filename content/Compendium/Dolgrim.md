@@ -1,9 +1,9 @@
 ---
-title: 
+title: Dolgrim
 type: compendium
-description: 
+description: Aberration created by merging two goblin bodies
 date: 2024-07-30
 draft: false
-location:
+location: Darguun
 ---
 ![[_assets/media/Compendium/Dolgrim.webp]]

@@ -25,6 +25,7 @@ description: Notes for Call of the Mournland
 | [[Sessions/002.md\|002]] | 24-03-24 | Finding and exploring the sewers in search of the heirloom.                |
 | [[Sessions/001.md\|001]] | 24-03-17 | The group meets and takes on a job to find a family heirloom.              |
 <!-- SerializedQuery END -->
+
 # The Party
 <!-- QueryToSerialize: TABLE player as "Player", description as "Description" FROM "People/Player Characters" WHERE type = "person" AND !deceased SORT file.name ASC -->
 <!-- SerializedQuery: TABLE player as "Player", description as "Description" FROM "People/Player Characters" WHERE type = "person" AND !deceased SORT file.name ASC -->
@@ -38,43 +39,57 @@ description: Notes for Call of the Mournland
 | [[People/Player Characters/Rik Roper.md\|Rik Roper]]                       | Hooligan | Kobold investigator from Droaam           |
 | [[People/Player Characters/Zinnia Rose.md\|Zinnia Rose]]                   | Spooky   | Glamorous tiefling bard from Thrane       |
 <!-- SerializedQuery END -->
+
 # Locations
-<!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Place", nation as "Nation", description as "Description" from "Places" WHERE contains(lower(type),"place") SORT date -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.name as "Place", nation as "Nation", description as "Description" from "Places" WHERE contains(lower(type),"place") SORT date -->
+<!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Place", nation as "Nation", description as "Description" from "Places" WHERE contains(lower(type),"place") SORT date DESC -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.name as "Place", nation as "Nation", description as "Description" from "Places" WHERE contains(lower(type),"place") SORT date DESC -->
 
-| Place         | Nation  | Description                                                   |
-| ------------- | ------- | ------------------------------------------------------------- |
-| Metrol        | Cyre    | The former capital of Galifar and Cyre, now ruined.           |
-| Sharn         | Breland | The most populous city in all of Khorvaire                    |
-| Sterngate     | Breland | Fortress at border between Sharn and Darguun                  |
-| Rhukaan Draal | Darguun | A sprawling goblinoid metropolis and capital city of Darguun. |
+| Place         | Nation  | Description                                                  |
+| ------------- | ------- | ------------------------------------------------------------ |
+| Rhukaan Draal | Darguun | A sprawling goblinoid metropolis and capital city of Darguun |
+| Metrol        | Cyre    | The former capital of Galifar and Cyre, now ruined           |
+| Sharn         | Breland | The most populous city in all of Khorvaire                   |
+| Sterngate     | Breland | Fortress at border between Sharn and Darguun                 |
 <!-- SerializedQuery END -->
-# People
-<!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Name", location as "Location", description as "Description" from "People" WHERE type = "npc" SORT date DESC LIMIT 6 -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.name as "Name", location as "Location", description as "Description" from "People" WHERE type = "npc" SORT date DESC LIMIT 6 -->
 
-| Name               | Location  | Description                                              |
-| ------------------ | --------- | -------------------------------------------------------- |
-| Uvlar              | Sterngate | Bugbear mercenary band captain                           |
-| Edrin              | Thrane    | Human cleric of the Church of the Silver Flame           |
-| Felicia Bladefall  | \-        | Human merchant from Lightning Rail Train                 |
-| Galin Springbranch | Zilagro   | Inquisitive gnome that gifted party bronze dragon scales |
-| Victor d'Vadalis   | \-        | Snake handler of House Vadalis from Lightning Rail Train |
-| Chester            | Sharn     | Dramatic daelkyr jester stalking Aya in Sharn            |
+# People
+<!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Name", location as "Location", description as "Description" from "People" WHERE type = "npc" SORT date DESC -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.name as "Name", location as "Location", description as "Description" from "People" WHERE type = "npc" SORT date DESC -->
+
+| Name                 | Location  | Description                                                               |
+| -------------------- | --------- | ------------------------------------------------------------------------- |
+| Cepha                | Darguun   | Green dragon known as The Scourge of Khraal                               |
+| Uvlar                | Sterngate | Bugbear mercenary band captain                                            |
+| Edrin                | Thrane    | Human cleric of the Church of the Silver Flame                            |
+| Felicia Bladefall    | \-        | Human merchant from Lightning Rail Train                                  |
+| Galin Springbranch   | Zilagro   | Inquisitive gnome that gifted party bronze dragon scales                  |
+| Victor d'Vadalis     | \-        | Snake handler of House Vadalis from Lightning Rail Train                  |
+| Chester              | Sharn     | Dramatic daelkyr jester stalking Aya in Sharn                             |
+| Tumrek d'Cannith     | Sharn     | Jolly dwarven artificer, friend of Kanxith's from Sharn                   |
+| Arguth               | Sharn     | Orc artificer and nut salesman in Sharn                                   |
+| Mandy                | Sharn     | Impatient bugbear Daask member                                            |
+| Nibbur               | Sharn     | Goblin tailor and informant for Rik Roper in Sharn                        |
+| Skakan               | Sharn     | Goblin "merchant" running a Rat Market in Sharn                           |
+| Bonal Geldem         | Sharn     | Human provost of Morgrave University and professor of pre-Galifar studies |
+| Lady Elaydren d'Vown | Sharn     | Human noblewoman of House Cannith in Sharn                                |
 <!-- SerializedQuery END -->
 
 # Treasure
-<!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Item", owner as "Owner", description as "Description" from "Treasure" WHERE contains(lower(type),"treasure") SORT date DESC LIMIT 6 -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.name as "Item", owner as "Owner", description as "Description" from "Treasure" WHERE contains(lower(type),"treasure") SORT date DESC LIMIT 6 -->
+<!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Item", owner as "Owner", description as "Description" from "Treasure" WHERE contains(lower(type),"treasure") SORT date DESC -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.name as "Item", owner as "Owner", description as "Description" from "Treasure" WHERE contains(lower(type),"treasure") SORT date DESC -->
 
-| Item                            | Owner | Description                                             |
-| ------------------------------- | ----- | ------------------------------------------------------- |
-| Ancient Map                     | \-    | Old map discovered in House Cannith ruins beneath Sharn |
-| Arcane Corruption Device        | \-    | \-                                                      |
-| Bonal's Journal and Signet Ring | \-    | \-                                                      |
-| Boots of Elvenkind              | \-    | \-                                                      |
-| Brass Dragon Scale              | \-    | \-                                                      |
-| Helm of Telepathy               | \-    | \-                                                      |
+| Item                            | Owner  | Description                                           |
+| ------------------------------- | ------ | ----------------------------------------------------- |
+| Boots of Elvenkind              | Rik    | Boots that magically silence footsteps                |
+| Helm of Telepathy               | Rik    | Cast Detect Thoughts/Suggestion once a day            |
+| Potion of Cloud Giant Strength  | Bariac | Potion that increases Strength to 27 for an hour      |
+| Bag of Holding                  | Nakaya | Storage bag with magically increased capacity         |
+| Candleflame Bow                 | Nakaya | Longbow with magical candle                           |
+| Brass Dragon Scale              | Party  | Gifts from Galin Springbranch                         |
+| Schema                          | Party  | Adamantine artefacts storing ancient artifice schemas |
+| Ancient Map                     | Party  | Old map from House Cannith ruins beneath Sharn        |
+| Arcane Corruption Device        | Petra  | Broken arcane device corrupting warforged             |
+| Cannith Journal and Signet Ring | Petra  | Cannith journal and ring taken from Bonal Geldem      |
 <!-- SerializedQuery END -->
 
 # Compendium
@@ -83,16 +98,33 @@ description: Notes for Call of the Mournland
 
 | Creature          | Location | Description                                                  |
 | ----------------- | -------- | ------------------------------------------------------------ |
-| Chwinga           | \-       | \-                                                           |
-| Clockwork Leech   | \-       | \-                                                           |
-| Dolgrim           | \-       | \-                                                           |
-| Gibbering Mouther | Khraal   | \-                                                           |
-| Kobold            | \-       | \-                                                           |
-| Mechanical Dog    | Sharn    | Metallic construct that resembles a canine.                  |
-| Ankheg            | \-       | \-                                                           |
-| Daelkyr           | \-       | \-                                                           |
-| Harpy             | Darguun  | Monstrous humanoid known for its entrancing voice and wings. |
-| Manticore         | Darguun  | Large monstrosity with vaguely human face.                   |
-| Shifter           | \-       | Humanoids with a bestial aspect                              |
+| Chwinga           | Darguun  | Small, shy spirits found in remote locations                 |
+| Clockwork leech   | Darguun  | Clockwork construction with the appearance of enormous leech |
+| Dolgrim           | Darguun  | Aberration created by merging two goblin bodies              |
+| Gibbering mouther | Darguun  | Incoherent amorphous mounds of flesh and orifices            |
+| Kobold            | Darguun  | Small-sized reptilian humanoids                              |
+| Mechanical dog    | Sharn    | Metallic construct that resembles a canine                   |
+| Ankheg            | Darguun  | Large burrowing insectoid creatures                          |
+| Daelkyr           | Xoriat   | Extraplanar creatures who appear unnaturally beautiful       |
+| Harpy             | Darguun  | Monstrous humanoid known for its entrancing voice and wings  |
+| Manticore         | Darguun  | Large monstrosity with vaguely human face                    |
+| Shifter           | Sharn    | Humanoids with a bestial aspect                              |
+| Warforged         | Sharn    | Humanoid created through artifice                            |
+<!-- SerializedQuery END -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.name as "Creature", location as "Location", description as "Description" from "Compendium" WHERE contains(lower(type),"compendium") SORT date DESC -->
+
+| Creature          | Location | Description                                                  |
+| ----------------- | -------- | ------------------------------------------------------------ |
+| Chwinga           | Darguun  | Small, shy spirits found in remote locations                 |
+| Clockwork leech   | Darguun  | Clockwork construction with the appearance of enormous leech |
+| Dolgrim           | Darguun  | Aberration created by merging two goblin bodies              |
+| Gibbering mouther | Darguun  | Incoherent amorphous mounds of flesh and orifices            |
+| Kobold            | Darguun  | Small-sized reptilian humanoids                              |
+| Mechanical dog    | Sharn    | Metallic construct that resembles a canine                   |
+| Ankheg            | Darguun  | Large burrowing insectoid creatures                          |
+| Daelkyr           | Xoriat   | Extraplanar creatures who appear unnaturally beautiful       |
+| Harpy             | Darguun  | Monstrous humanoid known for its entrancing voice and wings  |
+| Manticore         | Darguun  | Large monstrosity with vaguely human face                    |
+| Shifter           | Sharn    | Humanoids with a bestial aspect                              |
 | Warforged         | Sharn    | Humanoid created through artifice                            |
 <!-- SerializedQuery END -->

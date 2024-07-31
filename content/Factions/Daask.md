@@ -7,7 +7,7 @@ draft: false
 <!-- QueryToSerialize: TABLE description as "Description" FROM "People" WHERE faction = "Daask" -->
 <!-- SerializedQuery: TABLE description as "Description" FROM "People" WHERE faction = "Daask" -->
 
-| File                       | Description                |
-| -------------------------- | -------------------------- |
-| [[People/Mandy.md\|Mandy]] | Impatient bugbear criminal |
+| File                       | Description                    |
+| -------------------------- | ------------------------------ |
+| [[People/Mandy.md\|Mandy]] | Impatient bugbear Daask member |
 <!-- SerializedQuery END -->

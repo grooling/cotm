@@ -1,9 +1,9 @@
 ---
-title: 
+title: Brass Dragon Scale
 type: treasure
-description: 
-date: 2024-07-30
+description: Gifts from Galin Springbranch
+date: 2024-05-19
 draft: false
-location: 
-owner:
+location: Lightning Rail Train
+owner: Party
 ---

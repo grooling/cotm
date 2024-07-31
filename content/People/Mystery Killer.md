@@ -1,10 +1,10 @@
 ---
 title: Mysterious Hooded Killer
 type: person
-description: 
-date: 2024-07-28
+description: Killed Bonal Geldem while wearing a warforged mask
+date: 2024-03-17
 draft: false
-location: 
+location: Sharn
 faction: 
 player: Max
 deceased:

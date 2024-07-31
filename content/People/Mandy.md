@@ -2,7 +2,7 @@
 type: npc
 location: Sharn
 faction: Daask
-description: Impatient bugbear criminal
+description: Impatient bugbear Daask member
 player: Max
 deceased: 
 date: 2024-03-24
