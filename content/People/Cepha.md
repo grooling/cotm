@@ -8,3 +8,4 @@ player: Max
 deceased: 
 date: 2024-07-14
 ---
+![[_assets/media/People/Cepha.jpg]]

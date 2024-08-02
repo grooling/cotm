@@ -92,3 +92,6 @@ Paternal Grandfather"}}
 
 
 ```
+## Supercooled
+![[_assets/media/Supercooled.jpg]]
+*Nakaya's primal companion*

@@ -1,7 +1,7 @@
 ---
 title: Sterngate
 type: place
-description: Fortress at border between Sharn and Darguun
+description: Fortress at border between Breland and Darguun
 date: 2024-03-17
 draft: false
 continent: Khorvaire
