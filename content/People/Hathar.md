@@ -1,10 +1,10 @@
 ---
-title: 
+title: Hathar
 type: person
-description: 
+description: Dwarven wayfinder guide into Mournland
 date: 2024-08-04
 draft: false
-location: 
+location: Darguun
 faction: Wayfinder Foundation
 player: Max
 deceased:

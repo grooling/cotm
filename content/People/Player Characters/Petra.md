@@ -51,6 +51,8 @@ The family left Aerenal to tour across Eberron building a cache of awesome memor
 
 After Belaereth's untimely death, the family returned to Aerenal for a resurrection ritual. The Undying Court deemed Petra's father unneeded, and a funeral was held instead. Belaereth left behind an exceptionally ancient artifact: a metal orb with arcane symbols engraved inside many intricate compartments. After the ceremony, Petra left Aerenal, taking the orb with her. She spent the next few decades continuing to explore Eberron and starting to decipher the secrets of the relic. 
 
+![[zone/private/_assets/Orb.jpg]]
+
 A burgeoning mage for wage, Petra found herself in The City of Towers, looking for work. She was regularly employed by The Towerkeepers Society. The group specialized in the preservation and exploration of the many towers that make up Sharn's iconic skyline. Its members studied the history of these structures, documented changes in the city's layout, and uncovered hidden chambers and forgotten secrets within. Working alongside folks from House Cannith's Tinkers Guild, she picked up a few skills and shared a few of her own. 
 
 A while back, Petra got word that one Bonal Geldem, human provost of Morgrave University and professor of pre-Galifar studies, had been asking around about anyone interested in a funded expedition into the depths of Sharn. Petra knew she was perfect for the job, and made up her mind to meet him.
