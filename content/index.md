@@ -9,6 +9,7 @@ description: Notes for Call of the Mournland
 
 | No.                      | Date     | Synopsis                                                                   |
 | ------------------------ | -------- | -------------------------------------------------------------------------- |
+| [[Sessions/016.md\|016]] | 24-08-04 | Traveling, sharing history, and preparing to enter the Mournland.          |
 | [[Sessions/015.md\|015]] | 24-07-28 | Cepha's schema, treasure, and an attack by Bonal Geldem's killer.          |
 | [[Sessions/014.md\|014]] | 24-07-26 | Puzzling temple "trial" and first meeting with Cepha the green dragon.     |
 | [[Sessions/013.md\|013]] | 24-07-14 | Traveling to Cepha's lair after discovering she raided the Dhakaani ruins. |
@@ -45,9 +46,9 @@ description: Notes for Call of the Mournland
 | Place         | Nation  | Description                                                  |
 | ------------- | ------- | ------------------------------------------------------------ |
 | Rhukaan Draal | Darguun | A sprawling goblinoid metropolis and capital city of Darguun |
+| Sterngate     | Breland | Fortress at border between Breland and Darguun               |
 | Metrol        | Cyre    | The former capital of Galifar and Cyre, now ruined           |
 | Sharn         | Breland | The most populous city in all of Khorvaire                   |
-| Sterngate     | Breland | Fortress at border between Sharn and Darguun                 |
 <!-- SerializedQuery END -->
 # People
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Name", location as "Location", description as "Description" from "People" WHERE type = "npc" SORT date DESC -->
@@ -95,14 +96,14 @@ description: Notes for Call of the Mournland
 | ----------------- | -------- | ------------------------------------------------------------ |
 | Chwinga           | Darguun  | Small, shy spirits found in remote locations                 |
 | Clockwork leech   | Darguun  | Clockwork construction with the appearance of enormous leech |
-| Gibbering mouther | Darguun  | Incoherent amorphous mounds of flesh and orifices            |
 | Dolgrim           | Darguun  | Aberration created by merging two goblin bodies              |
+| Gibbering mouther | Darguun  | Incoherent amorphous mounds of flesh and orifices            |
 | Kobold            | Darguun  | Small-sized reptilian humanoids                              |
 | Mechanical dog    | Sharn    | Metallic construct that resembles a canine                   |
 | Ankheg            | Darguun  | Large burrowing insectoid creatures                          |
 | Daelkyr           | Xoriat   | Extraplanar creatures who appear unnaturally beautiful       |
+| Manticore         | Darguun  | Large monstrosity with vaguely human face                    |
 | Harpy             | Darguun  | Monstrous humanoid known for its entrancing voice and wings  |
 | Shifter           | Sharn    | Humanoids with a bestial aspect                              |
-| Manticore         | Darguun  | Large monstrosity with vaguely human face                    |
 | Warforged         | Sharn    | Humanoid created through artifice                            |
 <!-- SerializedQuery END -->

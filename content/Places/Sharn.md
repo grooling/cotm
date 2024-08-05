@@ -15,19 +15,19 @@ Sharn is the most populous city in all of Khorvaire. Known as the City of Towers
 <!-- QueryToSerialize: TABLE description as "Description" FROM "People" WHERE location = "Sharn" -->
 <!-- SerializedQuery: TABLE description as "Description" FROM "People" WHERE location = "Sharn" -->
 
-| File                                                     | Description                                                                        |
-| -------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [[People/Arguth.md\|Arguth]]                             | Orc artificer and nut salesman in Sharn                                            |
-| [[People/Bonal Geldem.md\|Bonal Geldem]]                 | Deceased human provost of Morgrave University and professor of pre-Galifar studies |
-| [[People/Chester.md\|Chester]]                           | Dramatic daelkyr jester stalking Aya in Sharn                                      |
-| [[People/Lady Elaydren d'Vown.md\|Lady Elaydren d'Vown]] | Human noblewoman of House Cannith in Sharn                                         |
-| [[People/Mandy.md\|Mandy]]                               | Impatient bugbear Daask member                                                     |
-| [[People/Mystery Killer.md\|Mystery Killer]]             | Killed Bonal Geldem while wearing a warforged mask                                 |
-| [[People/Nibbur.md\|Nibbur]]                             | Goblin tailor and informant for Rik Roper in Sharn                                 |
-| [[People/Player Characters/Aya Albata.md\|Aya Albata]]   | Human courier warlock from forgotten past                                          |
-| [[People/Sergeant Dolom.md\|Sergeant Dolom]]             | Sergeant in Sharn                                                                  |
-| [[People/Skakan.md\|Skakan]]                             | Goblin "merchant" running a Rat Market in Sharn                                    |
-| [[People/Tumrek d'Cannith.md\|Tumrek d'Cannith]]         | Jolly dwarven artificer, friend of Kanxith's from Sharn                            |
+| File                                                     | Description                                             |
+| -------------------------------------------------------- | ------------------------------------------------------- |
+| [[People/Arguth.md\|Arguth]]                             | Orc artificer and nut salesman in Sharn                 |
+| [[People/Bonal Geldem.md\|Bonal Geldem]]                 | Human provost of Morgrave University studying history   |
+| [[People/Chester.md\|Chester]]                           | Dramatic daelkyr jester stalking Aya in Sharn           |
+| [[People/Lady Elaydren d'Vown.md\|Lady Elaydren d'Vown]] | Human noblewoman of House Cannith in Sharn              |
+| [[People/Mandy.md\|Mandy]]                               | Impatient bugbear Daask member                          |
+| [[People/Mystery Killer.md\|Mystery Killer]]             | Killed Bonal Geldem while wearing a warforged mask      |
+| [[People/Nibbur.md\|Nibbur]]                             | Goblin tailor and informant for Rik Roper in Sharn      |
+| [[People/Player Characters/Aya Albata.md\|Aya Albata]]   | Human courier warlock from forgotten past               |
+| [[People/Sergeant Dolom.md\|Sergeant Dolom]]             | Sergeant in Sharn                                       |
+| [[People/Skakan.md\|Skakan]]                             | Goblin "merchant" running a Rat Market in Sharn         |
+| [[People/Tumrek d'Cannith.md\|Tumrek d'Cannith]]         | Jolly dwarven artificer, friend of Kanxith's from Sharn |
 <!-- SerializedQuery END -->
 
 # Locations
