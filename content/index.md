@@ -9,7 +9,7 @@ description: Notes for Call of the Mournland
 
 | No.                      | Date     | Synopsis                                                                   |
 | ------------------------ | -------- | -------------------------------------------------------------------------- |
-| [[Sessions/017.md\|017]] | 24-08-18 | Through the dead-gray mist and horrors of the Mournland.                   |
+| [[Sessions/017.md\|017]] | 24-08-18 | Through the dead-gray mist and into the horrors of the Mournland.          |
 | [[Sessions/016.md\|016]] | 24-08-04 | Traveling, sharing history, and preparing to enter the Mournland.          |
 | [[Sessions/015.md\|015]] | 24-07-28 | Cepha's schema, treasure, and an attack by Bonal Geldem's killer.          |
 | [[Sessions/014.md\|014]] | 24-07-26 | Puzzling temple "trial" and first meeting with Cepha the green dragon.     |
@@ -65,8 +65,8 @@ description: Notes for Call of the Mournland
 | Cepha                | Darguun   | Green dragon known as The Scourge of Khraal              |
 | Uvlar                | Sterngate | Bugbear mercenary band captain                           |
 | Edrin                | Thrane    | Human cleric of the Church of the Silver Flame           |
-| Galin Springbranch   | Zilagro   | Inquisitive gnome that gifted party bronze dragon scales |
 | Felicia Bladefall    | \-        | Human merchant from Lightning Rail Train                 |
+| Galin Springbranch   | Zilagro   | Inquisitive gnome that gifted party bronze dragon scales |
 | Victor d'Vadalis     | \-        | Snake handler of House Vadalis from Lightning Rail Train |
 | Chester              | Sharn     | Dramatic daelkyr jester stalking Aya in Sharn            |
 | Tumrek d'Cannith     | Sharn     | Jolly dwarven artificer, friend of Kanxith's from Sharn  |
@@ -105,12 +105,12 @@ description: Notes for Call of the Mournland
 | ----------------- | -------- | ------------------------------------------------------------ |
 | Chwinga           | Darguun  | Small, shy spirits found in remote locations                 |
 | Clockwork leech   | Darguun  | Clockwork construction with the appearance of enormous leech |
-| Gibbering mouther | Darguun  | Incoherent amorphous mounds of flesh and orifices            |
-| Mechanical dog    | Sharn    | Metallic construct that resembles a canine                   |
 | Dolgrim           | Darguun  | Aberration created by merging two goblin bodies              |
+| Gibbering mouther | Darguun  | Incoherent amorphous mounds of flesh and orifices            |
 | Kobold            | Darguun  | Small-sized reptilian humanoids                              |
-| Daelkyr           | Xoriat   | Extraplanar creatures who appear unnaturally beautiful       |
+| Mechanical dog    | Sharn    | Metallic construct that resembles a canine                   |
 | Ankheg            | Darguun  | Large burrowing insectoid creatures                          |
+| Daelkyr           | Xoriat   | Extraplanar creatures who appear unnaturally beautiful       |
 | Manticore         | Darguun  | Large monstrosity with vaguely human face                    |
 | Harpy             | Darguun  | Monstrous humanoid known for its entrancing voice and wings  |
 | Shifter           | Sharn    | Humanoids with a bestial aspect                              |
