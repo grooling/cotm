@@ -24,7 +24,7 @@ There was a red stream. Four trees, hundreds of feet tall, surrounded a town in 
 
 They entered the town of Steelspire. Nakaya was skipping joyfully. In the town center, they saw a large translucent figure searching the area. 
 
-![[_assets/media/Translucent Ogre.png]]
+![[_assets/media/Compendium/Translucent Ogre.png]]
 
 The figure retrieved a keg from a tavern, biting into it. They saw chunks of the keg move through its digestive system. The figure pulled out one of its teeth and tossed it carelessly to the ground. Suddenly, the enormous mouth of an even larger creature emerged from the clouds and devoured the figure entirely, then walked off towards the northern horizon, only its huge legs visible under the cloud cover.
 
@@ -32,7 +32,7 @@ Nakaya searched a blacksmith's shop and found a longsword, which she saved to se
 
 They stayed three days to complete a long rest. Nakaya and Bariac went out to hunt and forage. Every creature they encountered was in terrible shape, but Berry eventually spotted a bear that appeared to be made of plant matter. It provided enough for two days' rations, so they only had to use one ration each from their stash. 
 
-![[_assets/media/Plant Matter Bear.png]]
+![[_assets/media/Compendium/Plant Matter Bear.png]]
 
 They parted ways with Hathar.
 

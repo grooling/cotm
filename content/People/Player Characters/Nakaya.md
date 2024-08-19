@@ -86,7 +86,7 @@ id9 --- id3{{"Rime
 
 Father"}} --- id6{{"Frost Flower
 
-Paternal Grandmother"}} & id7{{"Ukichiro,
+Paternal Grandmother"}} & id7{{"Ukichiro
 
 Paternal Grandfather"}}
 

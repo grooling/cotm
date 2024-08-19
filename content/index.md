@@ -28,6 +28,7 @@ description: Notes for Call of the Mournland
 | [[Sessions/001.md\|001]] | 24-03-17 | The group meets and takes on a job to find a family heirloom.              |
 <!-- SerializedQuery END -->
 
+
 # The Party
 ---
 <!-- QueryToSerialize: TABLE player as "Player", description as "Description" FROM "People/Player Characters" WHERE type = "person" AND !deceased SORT file.name ASC -->
