@@ -1,6 +1,6 @@
 ---
 title: Mysterious Hooded Killer
-type: person
+type: npc
 description: Killed Bonal Geldem while wearing a warforged mask
 date: 2024-03-17
 draft: false

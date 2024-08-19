@@ -1,6 +1,6 @@
 ---
 title: Sergeant Dolom
-type: person
+type: npc
 description: Sergeant in Sharn
 date: 2024-04-14
 draft: false

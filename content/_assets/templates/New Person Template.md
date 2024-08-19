@@ -1,6 +1,6 @@
 ---
 title: 
-type: person
+type: npc
 description: 
 date: <% tp.date.now() %>
 draft: false
