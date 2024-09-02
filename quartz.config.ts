@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "grooling.github.io",
-    ignorePatterns: ["private", "_assets", "_assets/templates/", ".obsidian", "zone/"],
+    ignorePatterns: ["private", "_assets/templates/", ".obsidian", "zone/"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
