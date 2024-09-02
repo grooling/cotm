@@ -7,3 +7,4 @@ draft: false
 location: Sharn
 owner: Petra
 ---
+![[_assets/media/Items/Signet Ring.png]]
