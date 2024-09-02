@@ -52,3 +52,16 @@ Satmel Caskbrewer
 **Bariac shared a family photo full of many relatives including:**
 Varrol Ironfist (father)
 Durdirra Ironfist (mother)
+
+# Treasure
+
+<!-- QueryToSerialize: TABLE location as "From", description as "Description" where owner = "Bariac" -->
+<!-- SerializedQuery: TABLE location as "From", description as "Description" where owner = "Bariac" -->
+
+| File                                                                           | From          | Description                                                    |
+| ------------------------------------------------------------------------------ | ------------- | -------------------------------------------------------------- |
+| [[Pocketwatch of Time and Place]]   | Mournland     | Pocketwatch that tells time and points North on Material Plane |
+| [[Potion of Cloud Giant Strength]] | Cepha's Hoard | Potion that increases Strength to 27 for an hour               |
+<!-- SerializedQuery END -->
+
+

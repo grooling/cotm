@@ -105,7 +105,7 @@ description: Notes for Call of the Mournland
 | Boots of Elvenkind              | Rik    | Boots that magically silence footsteps                         |
 | Helm of Telepathy               | Rik    | Cast Detect Thoughts/Suggestion once a day                     |
 | Potion of Cloud Giant Strength  | Bariac | Potion that increases Strength to 27 for an hour               |
-| Pocketwatch of Time and Place   | Bariac | Pocketwatch that tells time and points north on Material Plane |
+| Pocketwatch of Time and Place   | Bariac | Pocketwatch that tells time and points North on Material Plane |
 <!-- SerializedQuery END -->
 # Compendium
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Creature", location as "Location", description as "Description" from "Compendium" WHERE contains(lower(type),"compendium") SORT date ASC -->

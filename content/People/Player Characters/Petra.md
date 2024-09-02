@@ -61,3 +61,13 @@ A while back, Petra got word that one Bonal Geldem, human provost of Morgrave Un
 
 # Connections
 
+# Treasure
+<!-- QueryToSerialize: TABLE location as "From", description as "Description" where owner = "Petra" -->
+<!-- SerializedQuery: TABLE location as "From", description as "Description" where owner = "Petra" -->
+
+| File                                                                             | From  | Description                                      |
+| -------------------------------------------------------------------------------- | ----- | ------------------------------------------------ |
+| [[Arcane Corruption Device]]               | Sharn | Broken arcane device corrupting warforged        |
+| [[Cannith Journal and Signet Ring]] | Sharn | Cannith journal and ring taken from Bonal Geldem |
+<!-- SerializedQuery END -->
+

@@ -1,7 +1,7 @@
 ---
 title: Pocketwatch of Time and Place
 type: treasure
-description: Pocketwatch that tells time and points north on Material Plane
+description: Pocketwatch that tells time and points North on Material Plane
 date: 2024-09-01
 draft: false
 location: Mournland

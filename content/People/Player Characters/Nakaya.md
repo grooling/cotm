@@ -71,3 +71,13 @@ Nakaya loved to learn and spent as much time as she could listening to her famil
 ## Supercooled
 ![[_assets/media/People/Supercooled.jpg]]
 *Nakaya's primal companion*
+
+# Treasure
+<!-- QueryToSerialize: TABLE location as "From", description as "Description" where owner = "Nakaya" -->
+<!-- SerializedQuery: TABLE location as "From", description as "Description" where owner = "Nakaya" -->
+
+| File                                             | From                 | Description                                   |
+| ------------------------------------------------ | -------------------- | --------------------------------------------- |
+| [[Bag of Holding]]   | Lightning Rail Train | Storage bag with magically increased capacity |
+| [[Candleflame Bow]] | Darguun              | Longbow with magical candle                   |
+<!-- SerializedQuery END -->

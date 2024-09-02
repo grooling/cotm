@@ -78,3 +78,15 @@ Susana Mara Rose (human mother)
 Zinnia is familiar with the **4th Skullbiters Company of the Darguun Military**. We met one member: a hobgoblin named Vregal "Fast Willy" from the tribridge borough. 
 
 Zinnia doesn't remember it very clearly, but after the Mourning she was helped by a medusa traveling merchant in the Mournland named [[People/Dal'erna]].
+
+# Treasure
+<!-- QueryToSerialize: TABLE location as "From", description as "Description" where owner = "Zinnia" -->
+<!-- SerializedQuery: TABLE location as "From", description as "Description" where owner = "Zinnia" -->
+
+| File | From | Description |
+| ---- | ---- | ----------- |
+<!-- SerializedQuery END -->
+
+
+
+

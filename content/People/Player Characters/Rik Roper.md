@@ -52,3 +52,12 @@ As an action, you can use the tattoo to cast the Disguise Self spell (DC 13 to d
 
 # Connections
 
+# Treasure
+<!-- QueryToSerialize: TABLE location as "From", description as "Description" where owner = "Rik" -->
+<!-- SerializedQuery: TABLE location as "From", description as "Description" where owner = "Rik" -->
+
+| File                                                   | From          | Description                                |
+| ------------------------------------------------------ | ------------- | ------------------------------------------ |
+| [[Boots of Elvenkind]] | Cepha's Hoard | Boots that magically silence footsteps     |
+| [[Helm of Telepathy]]   | Cepha's Hoard | Cast Detect Thoughts/Suggestion once a day |
+<!-- SerializedQuery END -->
