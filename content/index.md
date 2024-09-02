@@ -26,7 +26,7 @@ description: Notes for Call of the Mournland
 | [[015]] | 07-28 | Cepha's schema, treasure, and an attack by a familiar, unmasked killer.    |
 | [[016]] | 08-04 | Traveling, sharing history, and preparing to enter the Mournland.          |
 | [[017]] | 08-18 | Through the dead-gray mist and into the horrors of the Mournland.          |
-| [[018]] | 09-01 | The remains of a lightning rail station and a battlefield frozen in time.  |
+| [[018]] | 09-01 | Remains of a lightning rail station and a battlefield frozen in time.      |
 <!-- SerializedQuery END -->
 
 # The Party
@@ -121,8 +121,8 @@ description: Notes for Call of the Mournland
 | Daelkyr           | Xoriat   | Extraplanar creatures who appear unnaturally beautiful       |
 | Chwinga           | Darguun  | Small, shy spirits found in remote locations                 |
 | Clockwork leech   | Darguun  | Clockwork construction with the appearance of enormous leech |
-| Gibbering mouther | Darguun  | Incoherent amorphous mounds of flesh and orifices            |
 | Dolgrim           | Darguun  | Aberration created by merging two goblin bodies              |
+| Gibbering mouther | Darguun  | Incoherent amorphous mounds of flesh and orifices            |
 | Kobold            | Darguun  | Small-sized reptilian humanoids                              |
 | Mechanical dog    | Sharn    | Metallic construct that resembles a canine                   |
 <!-- SerializedQuery END -->
