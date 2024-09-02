@@ -67,31 +67,7 @@ Nakaya loved to learn and spent as much time as she could listening to her famil
 
 
 # Connections
-```mermaid
-flowchart BT
-
-id1{{Nakaya}} & id8{{"Rimed Crystals ''RC''
-
-Brother"}} --- id9{{ }}
-
-id9 --- id2{{"Rosette
-
-Mother"}} --- id4{{"Dendrite
-
-Maternal Grandmother"}} & id5{{"Fern
-
-Maternal Grandfather"}}
-
-id9 --- id3{{"Rime
-
-Father"}} --- id6{{"Frost Flower
-
-Paternal Grandmother"}} & id7{{"Ukichiro
-
-Paternal Grandfather"}}
-
-
-```
+![[_assets/media/drawings/Nakaya Family Tree.png]]
 ## Supercooled
 ![[_assets/media/People/Supercooled.jpg]]
 *Nakaya's primal companion*
