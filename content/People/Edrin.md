@@ -1,6 +1,6 @@
 ---
 type: npc
-location: Thrane
+location: Flamekeep
 faction: Church of the Silver Flame
 description: Human cleric of the Church of the Silver Flame
 player: Max

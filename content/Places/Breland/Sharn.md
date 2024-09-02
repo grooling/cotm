@@ -21,8 +21,8 @@ Sharn is the most populous city in all of Khorvaire. Known as the City of Towers
 | [[People/Bonal Geldem.md\|Bonal Geldem]]                 | Human provost of Morgrave University studying history   |
 | [[People/Chester.md\|Chester]]                           | Dramatic daelkyr jester stalking Aya in Sharn           |
 | [[People/Lady Elaydren d'Vown.md\|Lady Elaydren d'Vown]] | Human noblewoman of House Cannith in Sharn              |
-| [[People/Mandy.md\|Mandy]]                               | Impatient bugbear Daask member                          |
 | [[People/Mystery Killer.md\|Mystery Killer]]             | Killed Bonal Geldem while wearing a warforged mask      |
+| [[People/Mandy.md\|Mandy]]                               | Impatient bugbear Daask member                          |
 | [[People/Nibbur.md\|Nibbur]]                             | Goblin tailor and informant for Rik Roper in Sharn      |
 | [[People/Player Characters/Aya Albata.md\|Aya Albata]]   | Human courier warlock from forgotten past               |
 | [[People/Sergeant Dolom.md\|Sergeant Dolom]]             | Sergeant in Sharn                                       |
@@ -55,4 +55,4 @@ Arguth identified the broken arcane device that corrupted the Warforged and the 
 ## Platform 38 Sharn Lightning Rail Station
 The lightning rail station in Sharn.
 
-The party met [[Chester]] here and purchased tickets to [[Sterngate]] on their way to visit locations from the [[Treasure/Ancient Map]].
+The party met [[Chester]] here and purchased tickets to [[Places/Breland/Sterngate]] on their way to visit locations from the [[Treasure/Ancient Map]].

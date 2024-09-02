@@ -1,8 +1,8 @@
 ---
 type: person
-location: 
+location: Krona Peak
 faction: 
-description: Dwarven chef and cleric of Boldrei
+description: Dwarven chef and cleric from Mror Holds
 player: Montana
 date: 2024-06-30
 ---
@@ -41,6 +41,14 @@ Now, Bariac travels Khorvaire with a deeper sense of resolve. His experiences ha
 
 # Notes
 
+Bariac is from Krona Peak in Mror Holds. He is a cleric of [[Boldrei]].
 
+Bariac was in Tronish on the day of Mourning. He was there to get a book signed by chef Satmel Caskbrewer. His memories are hazy, all he remembers is running into a building that crumbled down on him. When he woke up, he wandered through the dead-gray mist and came out at Griffonclaw in the Talenta Plains. 
 # Connections
 
+**Bariac's favorite chef:**
+Satmel Caskbrewer
+
+**Bariac shared a family photo full of many relatives including:**
+Varrol Ironfist (father)
+Durdirra Ironfist (mother)

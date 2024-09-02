@@ -19,7 +19,7 @@ deceased: true
 **Bonds:** I may not care about my house as a whole, but I'd give my life for my mentor. <br />
 **Flaws:** Highly mischievous, I get a kick out of working people up and getting into trouble! <br />
 **Backstory Details:** TBA <br />
-**Appearance:** Cloaked in garments that echo the opulence of my former capital, [[Places/Metrol]], I wear a flowing robe crafted from fine silks interwoven with threads of silver and gold. Over my shoulders rests a cloak of deep indigo, adorned with shimmering crystals that glint with every movement, evoking the celestial beauty of the night sky. Around my neck hangs a pendant, a keepsake from my past, its crystal facets catching and refracting the light in a mesmerizing dance. <br />
+**Appearance:** Cloaked in garments that echo the opulence of my former capital, [[Places/Mournland/Metrol]], I wear a flowing robe crafted from fine silks interwoven with threads of silver and gold. Over my shoulders rests a cloak of deep indigo, adorned with shimmering crystals that glint with every movement, evoking the celestial beauty of the night sky. Around my neck hangs a pendant, a keepsake from my past, its crystal facets catching and refracting the light in a mesmerizing dance. <br />
 
 **Theme Song:**<br />
 The Whistler- Jethro Tull <br />

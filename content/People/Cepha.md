@@ -1,7 +1,7 @@
 ---
 title: Cepha
 type: npc
-location: Darguun
+location: Khraal
 faction: 
 description: Green dragon known as The Scourge of Khraal
 player: Max

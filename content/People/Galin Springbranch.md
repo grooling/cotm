@@ -1,6 +1,6 @@
 ---
 type: npc
-location: Zilagro
+location: Trolanport
 faction: 
 description: Inquisitive gnome that gifted party bronze dragon scales
 player: Max

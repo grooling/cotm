@@ -1,10 +1,10 @@
 ---
 type: person
-location: Thrane
+location: Tronish
 faction: 
-description: Glamorous tiefling bard from Thrane
+description: Glamorous tiefling bard from Cyre
 player: Spooky
-date: 2024-03-31
+date: 2024-03-17
 ---
 ![[_assets/media/People/Zinnia Rose.jpg]]
 # Bio
@@ -40,7 +40,9 @@ I was abandoned as a baby and left to the care of The Church of the Silver Flame
 > [!Warning]- Secret Backstory
 > I am from Tronish and was there when The Mourning happened. I do not know what happened or how I survived but somehow I walked out from the mists on the eastern side of Cyre where I was picked up by the Darguun military. Malnourished and catatonic I gave no response for weeks, but I began to regain mobility of mind and body when I heard the accordion for the first time. That's how I found my calling as an entertainer. 
 
-# Shiftweave Outfits
+# Outfits
+
+## Shiftweave Outfits
 > [!important]- Red Dress
 > ![[_assets/media/Items/Red Dress.bmp]]
 
@@ -56,8 +58,23 @@ I was abandoned as a baby and left to the care of The Church of the Silver Flame
 > [!important]- Tuxedo with Tailcoat and Top Hat
 > ![[_assets/media/Items/Tuxedo and Tailcoat.jpg]]
 
+## Other Outfits
+> [!important]- Sunhat and swimsuit
+> ![[_assets/media/Items/Sunhat.bmp]]
+> ![[_assets/media/Items/Swimsuit.bmp]]
+
+
 # Notes
+
+Zinnia revealed that she is from Tronish in the Mournland. She shared her sketchbook, where she draws scenes from Tronish from memory. Zinnia was traumatized by the Day of Mourning, when she lost a lot of loved ones. She seems to have walked west across all of the Mournland before ending up in Darguun.
 
 
 # Connections
 
+**Zinnia shared a drawing of her parents:**
+Delina Mara (tiefling mother)
+Susana Mara Rose (human mother)
+
+Zinnia is familiar with the **4th Skullbiters Company of the Darguun Military**. We met one member: a hobgoblin named Vregal "Fast Willy" from the tribridge borough. 
+
+Zinnia doesn't remember it very clearly, but after the Mourning she was helped by a medusa traveling merchant in the Mournland named [[People/Dal'erna]].

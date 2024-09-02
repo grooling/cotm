@@ -1,13 +1,13 @@
 ---
-title: Rhukaan Draal
+title: Brokentooth
 type: place
-description: A sprawling goblinoid metropolis and capital city of Darguun
-date: 2024-07-30
-draft: false
-continent: Khorvaire
-nation: Darguun
+description: 
+date: 2024-08-04
+draft: true
+continent: 
+nation:
 ---
-![[_assets/media/Places/Rhukaan Draal.png]]
+
 # People
 
 <!-- QueryToSerialize: TABLE description as "Description" FROM "People" WHERE location = "PLACE" -->
@@ -16,3 +16,6 @@ nation: Darguun
 | File | Description |
 | ---- | ----------- |
 <!-- SerializedQuery END -->
+
+# Locations
+## The Majestic Egg
