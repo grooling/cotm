@@ -72,12 +72,4 @@ She freely speaks of her experiences and her stalker, even though such stories s
 
 # Connections
 
-# Treasure
-<!-- QueryToSerialize: TABLE location as "From", description as "Description" where owner = "Aya" -->
-<!-- SerializedQuery: TABLE location as "From", description as "Description" where owner = "Aya" -->
-
-| File | From | Description |
-| ---- | ---- | ----------- |
-<!-- SerializedQuery END -->
-
 

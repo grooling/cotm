@@ -79,14 +79,6 @@ Zinnia is familiar with the **4th Skullbiters Company of the Darguun Military**.
 
 Zinnia doesn't remember it very clearly, but after the Mourning she was helped by a medusa traveling merchant in the Mournland named [[People/Dal'erna]].
 
-# Treasure
-<!-- QueryToSerialize: TABLE location as "From", description as "Description" where owner = "Zinnia" -->
-<!-- SerializedQuery: TABLE location as "From", description as "Description" where owner = "Zinnia" -->
-
-| File | From | Description |
-| ---- | ---- | ----------- |
-<!-- SerializedQuery END -->
-
 
 
 
