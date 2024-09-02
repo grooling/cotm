@@ -14,9 +14,9 @@ House Cannith possesses the Mark of Making. This mark grants various magical ben
 
 | File                                                                     | Description                                             |
 | ------------------------------------------------------------------------ | ------------------------------------------------------- |
-| [[People/Lady Elaydren d'Vown.md\|Lady Elaydren d'Vown]]                 | Human noblewoman of House Cannith in Sharn              |
-| [[People/Player Characters/Dolurrh/Kanxith Grexhan.md\|Kanxith Grexhan]] | Deceased Crystal Dragonborn Bard from Metrol            |
-| [[People/Tumrek d'Cannith.md\|Tumrek d'Cannith]]                         | Jolly dwarven artificer, friend of Kanxith's from Sharn |
+| [[Lady Elaydren d'Vown]]                 | Human noblewoman of House Cannith in Sharn              |
+| [[Kanxith Grexhan]] | Deceased Crystal Dragonborn Bard from Metrol            |
+| [[Tumrek d'Cannith]]                         | Jolly dwarven artificer, friend of Kanxith's from Sharn |
 <!-- SerializedQuery END -->
 
 # Sub-Factions

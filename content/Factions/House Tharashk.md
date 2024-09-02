@@ -13,5 +13,5 @@ House Tharashk possesses the Mark of Finding. This mark grants various magical b
 
 | File                                                 | Description                     |
 | ---------------------------------------------------- | ------------------------------- |
-| [[People/Player Characters/Rik Roper.md\|Rik Roper]] | Kobold investigator from Droaam |
+| [[Rik Roper]] | Kobold investigator from Droaam |
 <!-- SerializedQuery END -->

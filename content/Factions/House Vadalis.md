@@ -11,6 +11,6 @@ House Vadalis, also known as the House of Handling, is a human dragonmarked hous
 
 | File                                             | Description                                              |
 | ------------------------------------------------ | -------------------------------------------------------- |
-| [[People/Victor d'Vadalis.md\|Victor d'Vadalis]] | Snake handler of House Vadalis from Lightning Rail Train |
+| [[Victor d'Vadalis]] | Snake handler of House Vadalis from Lightning Rail Train |
 <!-- SerializedQuery END -->
 

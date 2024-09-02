@@ -10,10 +10,10 @@ nation: Mror Holds
 
 # People
 
-<!-- QueryToSerialize: TABLE description as "Description" FROM "People" WHERE location = "Korona Peak" -->
-<!-- SerializedQuery: TABLE description as "Description" FROM "People" WHERE location = "Korona Peak" -->
+<!-- QueryToSerialize: TABLE description as "Description" FROM "People" WHERE location = "Krona Peak" -->
+<!-- SerializedQuery: TABLE description as "Description" FROM "People" WHERE location = "Krona Peak" -->
 
 | File                                                                       | Description                             |
 | -------------------------------------------------------------------------- | --------------------------------------- |
-| [[People/Player Characters/Bariac Cast-Ironfist.md\|Bariac Cast-Ironfist]] | Dwarven chef and cleric from Mror Holds |
+| [[Bariac Cast-Ironfist]] | Dwarven chef and cleric from Mror Holds |
 <!-- SerializedQuery END -->

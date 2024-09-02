@@ -16,5 +16,5 @@ Metrol, called the Rising City, is the former capital of Galifar and of Cyre, on
 
 | File                                                                     | Description                                  |
 | ------------------------------------------------------------------------ | -------------------------------------------- |
-| [[People/Player Characters/Dolurrh/Kanxith Grexhan.md\|Kanxith Grexhan]] | Deceased Crystal Dragonborn Bard from Metrol |
+| [[Kanxith Grexhan]] | Deceased Crystal Dragonborn Bard from Metrol |
 <!-- SerializedQuery END -->

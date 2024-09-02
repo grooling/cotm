@@ -9,5 +9,5 @@ draft: false
 
 | File                       | Description                    |
 | -------------------------- | ------------------------------ |
-| [[People/Mandy.md\|Mandy]] | Impatient bugbear Daask member |
+| [[Mandy]] | Impatient bugbear Daask member |
 <!-- SerializedQuery END -->

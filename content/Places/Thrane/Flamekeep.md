@@ -18,5 +18,5 @@ The party met Edrin the human cleric aboard the lightning rail on their way to [
 
 | File                       | Description                                    |
 | -------------------------- | ---------------------------------------------- |
-| [[People/Edrin.md\|Edrin]] | Human cleric of the Church of the Silver Flame |
+| [[Edrin]] | Human cleric of the Church of the Silver Flame |
 <!-- SerializedQuery END -->

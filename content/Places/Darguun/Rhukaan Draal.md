@@ -16,7 +16,7 @@ Rhukaan Draal is the capital city of Darguun. Rhukaan Draal is a sprawling gobli
 
 | File                                                 | Description      |
 | ---------------------------------------------------- | ---------------- |
-| [[People/Haruuc Shaarat'kor.md\|Haruuc Shaarat'kor]] | Ruler of Darguun |
+| [[Haruuc Shaarat'kor]] | Ruler of Darguun |
 <!-- SerializedQuery END -->
 
 # Locations

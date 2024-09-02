@@ -19,5 +19,5 @@ The party met Galin Springbranch the inquisitive gnome aboard the lightning rail
 
 | File                                                 | Description                                              |
 | ---------------------------------------------------- | -------------------------------------------------------- |
-| [[People/Galin Springbranch.md\|Galin Springbranch]] | Inquisitive gnome that gifted party bronze dragon scales |
+| [[Galin Springbranch]] | Inquisitive gnome that gifted party bronze dragon scales |
 <!-- SerializedQuery END -->

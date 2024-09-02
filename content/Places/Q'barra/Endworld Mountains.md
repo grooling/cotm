@@ -15,5 +15,5 @@ nation: Q'barra
 
 | File                                           | Description                          |
 | ---------------------------------------------- | ------------------------------------ |
-| [[People/Player Characters/Nakaya.md\|Nakaya]] | White dragonborn ranger from Q'barra |
+| [[Nakaya]] | White dragonborn ranger from Q'barra |
 <!-- SerializedQuery END -->

@@ -10,5 +10,5 @@ draft: false
 
 | File                       | Description                                    |
 | -------------------------- | ---------------------------------------------- |
-| [[People/Edrin.md\|Edrin]] | Human cleric of the Church of the Silver Flame |
+| [[Edrin]] | Human cleric of the Church of the Silver Flame |
 <!-- SerializedQuery END -->
