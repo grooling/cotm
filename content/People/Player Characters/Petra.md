@@ -57,7 +57,7 @@ A burgeoning mage for wage, Petra found herself in The City of Towers, looking f
 
 A while back, Petra got word that one Bonal Geldem, human provost of Morgrave University and professor of pre-Galifar studies, had been asking around about anyone interested in a funded expedition into the depths of Sharn. Petra knew she was perfect for the job, and made up her mind to meet him.
 # Notes
-
+While traveling through the Mournland, Petra aged 10 years after being frightened by a ghost.
 
 # Connections
 

@@ -64,6 +64,7 @@ Frost Flower, Nakaya's paternal grandmother, and Ukichiro, her grandfather, were
 Nakaya loved to learn and spent as much time as she could listening to her family's stories and what they knew. She kept a journal containing everything she had learned over the years, especially the important things to stay alive like what mushrooms could and could not be eaten. As Nakaya spent time with Frost Flower and Ukichiro, they told her about the many adventures they had been on throughout their years together. Nakaya would listen in awe of all of the exciting things they were able to do, and dreamt of being an adventurer herself. She looked up to her grandmother who had decided what future she wanted and found a way to make it happen. The two talked about Nakaya's future in adventuring quite often, slowly leading Nakaya to make an adventuring plan similar to her grandmother's.
 
 # Notes
+While traveling through the Mournland, Nakaya aged 40 years after being frightened by a ghost.
 
 
 # Connections
@@ -74,6 +75,13 @@ Nakaya loved to learn and spent as much time as she could listening to her famil
 
 # Treasure
 <!-- QueryToSerialize: TABLE location as "From", description as "Description" where owner = "Nakaya" -->
+<!-- SerializedQuery: TABLE location as "From", description as "Description" where owner = "Nakaya" -->
+
+| File                                             | From                 | Description                                   |
+| ------------------------------------------------ | -------------------- | --------------------------------------------- |
+| [[Bag of Holding]]   | Lightning Rail Train | Storage bag with magically increased capacity |
+| [[Candleflame Bow]] | Darguun              | Longbow with magical candle                   |
+<!-- SerializedQuery END -->
 <!-- SerializedQuery: TABLE location as "From", description as "Description" where owner = "Nakaya" -->
 
 | File                                             | From                 | Description                                   |
