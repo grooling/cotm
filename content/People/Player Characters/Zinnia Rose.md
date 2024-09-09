@@ -79,6 +79,12 @@ Zinnia is familiar with the **4th Skullbiters Company of the Darguun Military**.
 
 Zinnia doesn't remember it very clearly, but after the Mourning she was helped by a medusa traveling merchant in the Mournland named [[People/Dal'erna]].
 
+# Treasure
+<!-- QueryToSerialize: TABLE location as "From", description as "Description" where owner = "Zinnia Rose" -->
+<!-- SerializedQuery: TABLE location as "From", description as "Description" where owner = "Zinnia Rose" -->
 
-
+| File                                                       | From    | Description                               |
+| ---------------------------------------------------------- | ------- | ----------------------------------------- |
+| [[Snail shell necklace]] | Darguun | Magical necklace with boon from a Chwinga |
+<!-- SerializedQuery END -->
 
