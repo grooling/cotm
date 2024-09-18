@@ -9,6 +9,7 @@ draft: true
 
 | Name                 | Description                                                               |
 | -------------------- | ------------------------------------------------------------------------- |
+| Annallisse           | Alchemist in Darry's Landing                                              |
 | Arguth               | Orc artificer and nut salesman in Sharn                                   |
 | Bonal Geldem         | Human provost of Morgrave University studying history                     |
 | Cepha                | Green dragon known as The Scourge of Khraal                               |
@@ -29,10 +30,11 @@ draft: true
 | Nibbur               | Goblin tailor and informant for Rik Roper in Sharn                        |
 | Sergeant Dolom       | Sergeant in Sharn                                                         |
 | Skakan               | Goblin "merchant" running a Rat Market in Sharn                           |
+| Sovereign Alexander  | Priest of the Sovereign Host in Darry's Landing                           |
 | Teddic               | A deceased Cyran soldier who had been suspended in time on a battlefield. |
 | Tumrek d'Cannith     | Jolly dwarven artificer, friend of Kanxith's from Sharn                   |
-| Victor d'Vadalis     | Snake handler of House Vadalis from Lightning Rail Train                  |
 | Uvlar                | Bugbear mercenary band captain                                            |
+| Victor d'Vadalis     | Snake handler of House Vadalis from Lightning Rail Train                  |
 <!-- SerializedQuery END -->
 
 

@@ -28,8 +28,8 @@ description: Notes for Call of the Mournland
 | [[017]] | 08-18 | Through the dead-gray mist and into the horrors of the Mournland.          |
 | [[018]] | 09-01 | Remains of a lightning rail station and a battlefield frozen in time.      |
 | [[019]] | 09-08 | Unfreezing soldiers and finding "normalcy" at Darry's Landing.             |
+| [[020]] | 09-15 | Investigation and disinfestation in Darry's Landing.                       |
 <!-- SerializedQuery END -->
-
 # The Party
 ---
 <!-- QueryToSerialize: TABLE player as "Player", description as "Description" FROM "People/Player Characters" WHERE type = "person" AND !deceased SORT file.name ASC -->
@@ -93,6 +93,8 @@ description: Notes for Call of the Mournland
 | Joe                  | Darry's Landing      | Chef from Darry's Landing                                                 |
 | Myles                | Darry's Landing      | Eight year-old boy from Darry's Landing                                   |
 | Teddic               | Copperton            | A deceased Cyran soldier who had been suspended in time on a battlefield. |
+| Annallisse           | Darry's Landing      | Alchemist in Darry's Landing                                              |
+| Sovereign Alexander  | Darry's Landing      | Priest of the Sovereign Host in Darry's Landing                           |
 <!-- SerializedQuery END -->
 
 # Treasure
@@ -118,19 +120,21 @@ description: Notes for Call of the Mournland
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Creature", location as "Location", description as "Description" from "Compendium" WHERE contains(lower(type),"compendium") SORT date ASC -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.name as "Creature", location as "Location", description as "Description" from "Compendium" WHERE contains(lower(type),"compendium") SORT date ASC -->
 
-| Creature          | Location  | Description                                                  |
-| ----------------- | --------- | ------------------------------------------------------------ |
-| Warforged         | Sharn     | Humanoid created through artifice                            |
-| Harpy             | Darguun   | Monstrous humanoid known for its entrancing voice and wings  |
-| Shifter           | Sharn     | Humanoids with a bestial aspect                              |
-| Mechanical dog    | Sharn     | Metallic construct that resembles a canine                   |
-| Manticore         | Darguun   | Large monstrosity with vaguely human face                    |
-| Ankheg            | Darguun   | Large burrowing insectoid creatures                          |
-| Daelkyr           | Xoriat    | Extraplanar creatures who appear unnaturally beautiful       |
-| Chwinga           | Darguun   | Small, shy spirits found in remote locations                 |
-| Clockwork leech   | Darguun   | Clockwork construction with the appearance of enormous leech |
-| Dolgrim           | Darguun   | Aberration created by merging two goblin bodies              |
-| Gibbering mouther | Darguun   | Incoherent amorphous mounds of flesh and orifices            |
-| Kobold            | Darguun   | Small-sized reptilian humanoids                              |
-| dog abomination   | Mournland | A seemingly normal dog transformed into an abomination       |
+| Creature          | Location        | Description                                                  |
+| ----------------- | --------------- | ------------------------------------------------------------ |
+| Warforged         | Sharn           | Humanoid created through artifice                            |
+| Harpy             | Darguun         | Monstrous humanoid known for its entrancing voice and wings  |
+| Shifter           | Sharn           | Humanoids with a bestial aspect                              |
+| Mechanical dog    | Sharn           | Metallic construct that resembles a canine                   |
+| Manticore         | Darguun         | Large monstrosity with vaguely human face                    |
+| Ankheg            | Darguun         | Large burrowing insectoid creatures                          |
+| Daelkyr           | Xoriat          | Extraplanar creatures who appear unnaturally beautiful       |
+| Chwinga           | Darguun         | Small, shy spirits found in remote locations                 |
+| Clockwork leech   | Darguun         | Clockwork construction with the appearance of enormous leech |
+| Dolgrim           | Darguun         | Aberration created by merging two goblin bodies              |
+| Gibbering mouther | Darguun         | Incoherent amorphous mounds of flesh and orifices            |
+| Kobold            | Darguun         | Small-sized reptilian humanoids                              |
+| Dog abomination   | Mournland       | A seemingly normal dog transformed into an abomination       |
+| Doppelrat         | Darry's Landing | Rat that multiplied through mitosis                          |
 <!-- SerializedQuery END -->
+
