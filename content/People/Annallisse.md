@@ -9,4 +9,4 @@ faction:
 player: Max
 deceased:
 ---
-![[_assets/media/Annallisse.bmp]]
+![[_assets/media/People/Annallisse.bmp]]

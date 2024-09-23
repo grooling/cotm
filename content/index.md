@@ -29,7 +29,9 @@ description: Notes for Call of the Mournland
 | [[018]] | 09-01 | Remains of a lightning rail station and a battlefield frozen in time.      |
 | [[019]] | 09-08 | Unfreezing soldiers and finding "normalcy" at Darry's Landing.             |
 | [[020]] | 09-15 | Investigation and disinfestation in Darry's Landing.                       |
+| [[021]] | 09-22 | Fourth schema in hand, Annallisse and Darry's Landing are brought to rest. |
 <!-- SerializedQuery END -->
+
 # The Party
 ---
 <!-- QueryToSerialize: TABLE player as "Player", description as "Description" FROM "People/Player Characters" WHERE type = "person" AND !deceased SORT file.name ASC -->
@@ -79,8 +81,8 @@ description: Notes for Call of the Mournland
 | Sergeant Dolom       | Sharn                | Sergeant in Sharn                                                         |
 | Chester              | Sharn                | Dramatic daelkyr jester stalking Aya in Sharn                             |
 | Tumrek d'Cannith     | Sharn                | Jolly dwarven artificer, friend of Kanxith's from Sharn                   |
-| Edrin                | Flamekeep            | Human cleric of the Church of the Silver Flame                            |
 | Felicia Bladefall    | Lightning Rail Train | Human merchant from Lightning Rail Train                                  |
+| Edrin                | Flamekeep            | Human cleric of the Church of the Silver Flame                            |
 | Galin Springbranch   | Trolanport           | Inquisitive gnome that gifted party bronze dragon scales                  |
 | Victor d'Vadalis     | \-                   | Snake handler of House Vadalis from Lightning Rail Train                  |
 | Uvlar                | Sterngate            | Bugbear mercenary band captain                                            |

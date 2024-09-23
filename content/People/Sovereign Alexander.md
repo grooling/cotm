@@ -9,4 +9,4 @@ faction:
 player: Max
 deceased:
 ---
-![[_assets/media/Sovereign Alexander.bmp]]
+![[_assets/media/People/Sovereign Alexander.bmp]]

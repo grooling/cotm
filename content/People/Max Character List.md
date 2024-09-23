@@ -16,12 +16,12 @@ draft: true
 | Chester              | Dramatic daelkyr jester stalking Aya in Sharn                             |
 | Dal'erna             | Medusa hiker that helped Zinnia after the Mourning                        |
 | Daneel Thornwaist    | Deceased gnome lightning rail worker from Zilargo.                        |
-| Edrin                | Human cleric of the Church of the Silver Flame                            |
 | Felicia Bladefall    | Human merchant from Lightning Rail Train                                  |
+| Edrin                | Human cleric of the Church of the Silver Flame                            |
 | Galin Springbranch   | Inquisitive gnome that gifted party bronze dragon scales                  |
 | Haruuc Shaarat'kor   | Ruler of Darguun                                                          |
-| Hathar               | Dwarven wayfinder guide into Mournland                                    |
 | Jerediah Semet       | Mayor of Darry's Landing                                                  |
+| Hathar               | Dwarven wayfinder guide into Mournland                                    |
 | Joe                  | Chef from Darry's Landing                                                 |
 | Lady Elaydren d'Vown | Human noblewoman of House Cannith in Sharn                                |
 | Mandy                | Impatient bugbear Daask member                                            |
@@ -31,8 +31,8 @@ draft: true
 | Sergeant Dolom       | Sergeant in Sharn                                                         |
 | Skakan               | Goblin "merchant" running a Rat Market in Sharn                           |
 | Sovereign Alexander  | Priest of the Sovereign Host in Darry's Landing                           |
-| Teddic               | A deceased Cyran soldier who had been suspended in time on a battlefield. |
 | Tumrek d'Cannith     | Jolly dwarven artificer, friend of Kanxith's from Sharn                   |
+| Teddic               | A deceased Cyran soldier who had been suspended in time on a battlefield. |
 | Uvlar                | Bugbear mercenary band captain                                            |
 | Victor d'Vadalis     | Snake handler of House Vadalis from Lightning Rail Train                  |
 <!-- SerializedQuery END -->
