@@ -3,8 +3,8 @@ draft: true
 ---
 - [[Places/Zilargo/index.md]]
 - [[Places/Thrane/index.md]]
-- [[Places/Mror Holds/index.md]]
 - [[Places/Q'barra/index.md]]
+- [[Places/Mror Holds/index.md]]
 - [[Places/Mournland/Steelspire.md]]
 - [[Places/Mournland/index.md]]
 - [[Places/Mournland/Greenland.md]]
@@ -14,6 +14,7 @@ draft: true
 - [[Places/Breland/Starilaskur.md]]
 - [[Places/Breland/index.md]]
 - [[Places/Aundair/index.md]]
+- [[People/Phaerix.md]]
 - [[People/Sergeant Dolom.md]]
 - [[Lore/Progenitor Dragons.md]]
 - [[Lore/Day of Mourning.md]]

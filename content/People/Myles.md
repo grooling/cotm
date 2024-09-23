@@ -7,7 +7,7 @@ draft: false
 location: Darry's Landing
 faction: 
 player: Max
-deceased:
+deceased: true
 ---
 Young boy of about eight years old that greeted the group when they entered [[Darry's Landing]]. He has grayish tint to his complexion and half of the skin on his face was missing. He gave no indication that he was aware of the state of his decay.
 

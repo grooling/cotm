@@ -7,7 +7,7 @@ draft: false
 location: Darry's Landing
 faction: 
 player: Max
-deceased:
+deceased: true
 ---
 ![[_assets/media/People/Jerediah Semet.bmp]]
 
