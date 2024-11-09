@@ -72,35 +72,35 @@ description: Notes for Call of the Mournland
 <!-- QueryToSerialize: TABLE WITHOUT ID file.name as "Name", location as "Location", description as "Description" from "People" WHERE type = "npc" SORT date ASC -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.name as "Name", location as "Location", description as "Description" from "People" WHERE type = "npc" SORT date ASC -->
 
-| Name                 | Location             | Description                                                               |
-| -------------------- | -------------------- | ------------------------------------------------------------------------- |
-| Bonal Geldem         | Sharn                | Human provost of Morgrave University studying history                     |
-| Lady Elaydren d'Vown | Sharn                | Human noblewoman of House Cannith in Sharn                                |
-| Mystery Killer       | Sharn                | Killed Bonal Geldem while wearing a warforged mask                        |
-| Mandy                | Sharn                | Impatient bugbear Daask member                                            |
-| Nibbur               | Sharn                | Goblin tailor and informant for Rik Roper in Sharn                        |
-| Skakan               | Sharn                | Goblin "merchant" running a Rat Market in Sharn                           |
-| Arguth               | Sharn                | Orc artificer and nut salesman in Sharn                                   |
-| Sergeant Dolom       | Sharn                | Sergeant in Sharn                                                         |
-| Chester              | Sharn                | Dramatic daelkyr jester stalking Aya in Sharn                             |
-| Tumrek d'Cannith     | Sharn                | Jolly dwarven artificer, friend of Kanxith's from Sharn                   |
-| Edrin                | Flamekeep            | Human cleric of the Church of the Silver Flame                            |
-| Felicia Bladefall    | Lightning Rail Train | Human merchant from Lightning Rail Train                                  |
-| Galin Springbranch   | Trolanport           | Inquisitive gnome that gifted party bronze dragon scales                  |
-| Victor d'Vadalis     | \-                   | Snake handler of House Vadalis from Lightning Rail Train                  |
-| Uvlar                | Sterngate            | Bugbear mercenary band captain                                            |
-| Haruuc Shaarat'kor   | Rhukaan Draal        | Ruler of Darguun                                                          |
-| Cepha                | Khraal               | Green dragon known as The Scourge of Khraal                               |
-| Phaerix              | \-                   | \-                                                                        |
-| Hathar               | Darguun              | Dwarven wayfinder guide into Mournland                                    |
-| Dal'erna             | Mournland            | Medusa hiker that helped Zinnia after the Mourning                        |
-| Daneel Thornwaist    | Mournland            | Deceased gnome lightning rail worker from Zilargo.                        |
-| Jerediah Semet       | Darry's Landing      | Mayor of Darry's Landing                                                  |
-| Joe                  | Darry's Landing      | Chef from Darry's Landing                                                 |
-| Myles                | Darry's Landing      | Eight year-old boy from Darry's Landing                                   |
-| Teddic               | Copperton            | A deceased Cyran soldier who had been suspended in time on a battlefield. |
-| Annallisse           | Darry's Landing      | Alchemist in Darry's Landing                                              |
-| Sovereign Alexander  | Darry's Landing      | Priest of the Sovereign Host in Darry's Landing                           |
+| Name                 | Location        | Description                                                               |
+| -------------------- | --------------- | ------------------------------------------------------------------------- |
+| Bonal Geldem         | Sharn           | Human provost of Morgrave University studying history                     |
+| Lady Elaydren d'Vown | Sharn           | Human noblewoman of House Cannith in Sharn                                |
+| Mystery Killer       | Sharn           | Killed Bonal Geldem while wearing a warforged mask                        |
+| Mandy                | Sharn           | Impatient bugbear Daask member                                            |
+| Nibbur               | Sharn           | Goblin tailor and informant for Rik Roper in Sharn                        |
+| Skakan               | Sharn           | Goblin "merchant" running a Rat Market in Sharn                           |
+| Arguth               | Sharn           | Orc artificer and nut salesman in Sharn                                   |
+| Sergeant Dolom       | Sharn           | Sergeant in Sharn                                                         |
+| Chester              | Sharn           | Dramatic daelkyr jester stalking Aya in Sharn                             |
+| Tumrek d'Cannith     | Sharn           | Jolly dwarven artificer, friend of Kanxith's from Sharn                   |
+| Edrin                | Flamekeep       | Human cleric of the Church of the Silver Flame                            |
+| Felicia Bladefall    | Lightning Rail  | Human merchant from Lightning Rail Train                                  |
+| Galin Springbranch   | Trolanport      | Inquisitive gnome that gifted party bronze dragon scales                  |
+| Victor d'Vadalis     | \-              | Snake handler of House Vadalis from Lightning Rail Train                  |
+| Uvlar                | Sterngate       | Bugbear mercenary band captain                                            |
+| Haruuc Shaarat'kor   | Rhukaan Draal   | Ruler of Darguun                                                          |
+| Cepha                | Khraal          | Green dragon known as The Scourge of Khraal                               |
+| Phaerix              | \-              | \-                                                                        |
+| Hathar               | Darguun         | Dwarven wayfinder guide into Mournland                                    |
+| Dal'erna             | Mournland       | Medusa hiker that helped Zinnia after the Mourning                        |
+| Daneel Thornwaist    | Mournland       | Deceased gnome lightning rail worker from Zilargo.                        |
+| Jerediah Semet       | Darry's Landing | Mayor of Darry's Landing                                                  |
+| Joe                  | Darry's Landing | Chef from Darry's Landing                                                 |
+| Myles                | Darry's Landing | Eight year-old boy from Darry's Landing                                   |
+| Teddic               | Copperton       | A deceased Cyran soldier who had been suspended in time on a battlefield. |
+| Annallisse           | Darry's Landing | Alchemist in Darry's Landing                                              |
+| Sovereign Alexander  | Darry's Landing | Priest of the Sovereign Host in Darry's Landing                           |
 <!-- SerializedQuery END -->
 
 # Treasure
@@ -135,8 +135,8 @@ description: Notes for Call of the Mournland
 | Manticore         | Darguun         | Large monstrosity with vaguely human face                    |
 | Ankheg            | Darguun         | Large burrowing insectoid creatures                          |
 | Daelkyr           | Xoriat          | Extraplanar creatures who appear unnaturally beautiful       |
-| Clockwork leech   | Darguun         | Clockwork construction with the appearance of enormous leech |
 | Chwinga           | Darguun         | Small, shy spirits found in remote locations                 |
+| Clockwork leech   | Darguun         | Clockwork construction with the appearance of enormous leech |
 | Dolgrim           | Darguun         | Aberration created by merging two goblin bodies              |
 | Gibbering mouther | Darguun         | Incoherent amorphous mounds of flesh and orifices            |
 | Kobold            | Darguun         | Small-sized reptilian humanoids                              |

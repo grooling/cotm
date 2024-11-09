@@ -1,6 +1,6 @@
 ---
 type: npc
-location: Lightning Rail Train
+location: Lightning Rail
 faction: 
 description: Human merchant from Lightning Rail Train
 player: Max

@@ -10,8 +10,8 @@ draft: true
 | Name                 | Description                                                               |
 | -------------------- | ------------------------------------------------------------------------- |
 | Annallisse           | Alchemist in Darry's Landing                                              |
-| Arguth               | Orc artificer and nut salesman in Sharn                                   |
 | Bonal Geldem         | Human provost of Morgrave University studying history                     |
+| Arguth               | Orc artificer and nut salesman in Sharn                                   |
 | Cepha                | Green dragon known as The Scourge of Khraal                               |
 | Chester              | Dramatic daelkyr jester stalking Aya in Sharn                             |
 | Dal'erna             | Medusa hiker that helped Zinnia after the Mourning                        |
@@ -19,8 +19,8 @@ draft: true
 | Edrin                | Human cleric of the Church of the Silver Flame                            |
 | Felicia Bladefall    | Human merchant from Lightning Rail Train                                  |
 | Galin Springbranch   | Inquisitive gnome that gifted party bronze dragon scales                  |
-| Hathar               | Dwarven wayfinder guide into Mournland                                    |
 | Haruuc Shaarat'kor   | Ruler of Darguun                                                          |
+| Hathar               | Dwarven wayfinder guide into Mournland                                    |
 | Jerediah Semet       | Mayor of Darry's Landing                                                  |
 | Joe                  | Chef from Darry's Landing                                                 |
 | Lady Elaydren d'Vown | Human noblewoman of House Cannith in Sharn                                |
