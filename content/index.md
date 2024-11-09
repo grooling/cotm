@@ -32,8 +32,8 @@ description: Notes for Call of the Mournland
 | [[021]] | 09-22 | Fourth schema in hand, Darry's Landing is brought to rest.                      |
 | [[022]] | 10-13 | Communicating with an ancient entity in the Glass Plateau crystal cavern.       |
 | [[023]] | 10-27 | Abandoning the giant protector and investigating the storm cloud for the Morel. |
+| [[024]] | 11-03 | Returning to the Glass Plateau to explore Making with Rastia ir'Lain.           |
 <!-- SerializedQuery END -->
-
 # The Party
 ---
 <!-- QueryToSerialize: TABLE player as "Player", description as "Description" FROM "People/Player Characters" WHERE type = "person" AND !deceased SORT file.name ASC -->
@@ -83,9 +83,9 @@ description: Notes for Call of the Mournland
 | Sergeant Dolom       | Sharn                | Sergeant in Sharn                                                         |
 | Chester              | Sharn                | Dramatic daelkyr jester stalking Aya in Sharn                             |
 | Tumrek d'Cannith     | Sharn                | Jolly dwarven artificer, friend of Kanxith's from Sharn                   |
+| Galin Springbranch   | Trolanport           | Inquisitive gnome that gifted party bronze dragon scales                  |
 | Edrin                | Flamekeep            | Human cleric of the Church of the Silver Flame                            |
 | Felicia Bladefall    | Lightning Rail Train | Human merchant from Lightning Rail Train                                  |
-| Galin Springbranch   | Trolanport           | Inquisitive gnome that gifted party bronze dragon scales                  |
 | Victor d'Vadalis     | \-                   | Snake handler of House Vadalis from Lightning Rail Train                  |
 | Uvlar                | Sterngate            | Bugbear mercenary band captain                                            |
 | Haruuc Shaarat'kor   | Rhukaan Draal        | Ruler of Darguun                                                          |
@@ -94,8 +94,8 @@ description: Notes for Call of the Mournland
 | Hathar               | Darguun              | Dwarven wayfinder guide into Mournland                                    |
 | Dal'erna             | Mournland            | Medusa hiker that helped Zinnia after the Mourning                        |
 | Daneel Thornwaist    | Mournland            | Deceased gnome lightning rail worker from Zilargo.                        |
-| Jerediah Semet       | Darry's Landing      | Mayor of Darry's Landing                                                  |
 | Joe                  | Darry's Landing      | Chef from Darry's Landing                                                 |
+| Jerediah Semet       | Darry's Landing      | Mayor of Darry's Landing                                                  |
 | Myles                | Darry's Landing      | Eight year-old boy from Darry's Landing                                   |
 | Teddic               | Copperton            | A deceased Cyran soldier who had been suspended in time on a battlefield. |
 | Annallisse           | Darry's Landing      | Alchemist in Darry's Landing                                              |
@@ -108,9 +108,9 @@ description: Notes for Call of the Mournland
 
 | Item                            | Owner       | Description                                                    |
 | ------------------------------- | ----------- | -------------------------------------------------------------- |
-| Arcane Corruption Device        | Petra       | Broken arcane device corrupting warforged                      |
 | Cannith Journal and Signet Ring | Petra       | Cannith journal and ring taken from Bonal Geldem               |
 | Ancient Map                     | Party       | Old map from House Cannith ruins beneath Sharn                 |
+| Arcane Corruption Device        | Petra       | Broken arcane device corrupting warforged                      |
 | Schema                          | Party       | Adamantine artefacts storing ancient artifice schemas          |
 | Brass Dragon Scale              | Party       | Gifts from Galin Springbranch                                  |
 | Candleflame Bow                 | Nakaya      | Longbow with magical candle                                    |
@@ -132,12 +132,12 @@ description: Notes for Call of the Mournland
 | Shifter           | Sharn           | Humanoids with a bestial aspect                              |
 | Mechanical dog    | Sharn           | Metallic construct that resembles a canine                   |
 | Manticore         | Darguun         | Large monstrosity with vaguely human face                    |
-| Ankheg            | Darguun         | Large burrowing insectoid creatures                          |
 | Daelkyr           | Xoriat          | Extraplanar creatures who appear unnaturally beautiful       |
-| Chwinga           | Darguun         | Small, shy spirits found in remote locations                 |
+| Ankheg            | Darguun         | Large burrowing insectoid creatures                          |
 | Clockwork leech   | Darguun         | Clockwork construction with the appearance of enormous leech |
-| Gibbering mouther | Darguun         | Incoherent amorphous mounds of flesh and orifices            |
 | Dolgrim           | Darguun         | Aberration created by merging two goblin bodies              |
+| Chwinga           | Darguun         | Small, shy spirits found in remote locations                 |
+| Gibbering mouther | Darguun         | Incoherent amorphous mounds of flesh and orifices            |
 | Kobold            | Darguun         | Small-sized reptilian humanoids                              |
 | Dog abomination   | Mournland       | A seemingly normal dog transformed into an abomination       |
 | Doppelrat         | Darry's Landing | Rat that multiplied through mitosis                          |

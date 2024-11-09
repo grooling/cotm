@@ -1,5 +1,5 @@
 ---
-title: 
+title: Session 023 Extended
 description: 
 date: 2024-10-27
 draft: true
@@ -12,7 +12,6 @@ Wir, Dravago 18, 998 YK
 Nakaya didn’t feel the schema insert.
 
 Nakaya asks:
-
 "Who are you?"  
 "I do not know."
 
@@ -49,7 +48,6 @@ Nakaya asks:
 "Yes."
 
 Petra asks:
-
 "Where do you fit in the story of Eberron?" 
 "Alv" (Elf in Giant) "I am incomplete; restore me so I can remember."
 

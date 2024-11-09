@@ -1,6 +1,7 @@
 ---
 draft: true
 ---
+
 - [[index.md]]
 - [[People/Max Character List.md]]
 - [[Factions/House Tharashk.md]]
@@ -9,6 +10,7 @@ draft: true
 - [[Places/Mror Holds/Krona Peak.md]]
 - [[Places/Q'barra/Endworld Mountains.md]]
 - [[empty files.md]]
+- [[Sessions/024.md]]
 - [[Places/Darguun/Brokentooth.md]]
 - [[Places/Aerenal/Shae Cairdal.md]]
 - [[Places/Darguun/Khraal.md]]
