@@ -8,3 +8,5 @@ continent: Khorvaire
 nation: Breland
 ---
 ![[_assets/media/Places/Sterngate.png]]
+
+Border town between Breland and Darguun.

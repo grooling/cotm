@@ -51,7 +51,7 @@ As an action, you can use the tattoo to cast the Disguise Self spell (DC 13 to d
 
 
 # Connections
-
+Kairo the falcon
 # Treasure
 <!-- QueryToSerialize: TABLE location as "From", description as "Description" where owner = "Rik" -->
 <!-- SerializedQuery: TABLE location as "From", description as "Description" where owner = "Rik" -->

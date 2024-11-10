@@ -2,7 +2,7 @@
 title: Boots of Elvenkind
 type: treasure
 description: Boots that magically silence footsteps
-date: 2024-07-30
+date: 2024-07-28
 draft: false
 location: Cepha's Hoard
 owner: Rik

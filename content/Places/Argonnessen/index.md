@@ -1,10 +1,10 @@
 ---
 title: Argonnessen
 type: place
-description: 
+description: Isolationist dragon continent to the far southeast of Khorvaire.
 date: 2024-07-21
-draft: true
-continent: 
+draft: false
+continent: Argonnessen
 nation:
 ---
 Argonnessen is an isolationist continent to the far southeast of Khorvaire and southwest of Sarlona. It is the home of dragons, the oldest civilization in the world. 

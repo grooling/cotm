@@ -10,9 +10,14 @@ nation:
 
 # People
 
-<!-- QueryToSerialize: TABLE description as "Description" FROM "People" WHERE location = "PLACE" -->
-<!-- SerializedQuery: TABLE description as "Description" FROM "People" WHERE location = "PLACE" -->
+<!-- QueryToSerialize: TABLE description as "Description" FROM "People" WHERE location = "Khraal" -->
+<!-- SerializedQuery: TABLE description as "Description" FROM "People" WHERE location = "Khraal" -->
 
-| File | Description |
-| ---- | ----------- |
+| File                       | Description                                           |
+| -------------------------- | ----------------------------------------------------- |
+| [[Cepha]] | Green dragon known as The Scourge of Khraal           |
+| [[Stur]]   | Bugbear patrolman of the Limb Choppers in The Khraal. |
 <!-- SerializedQuery END -->
+
+# Locations
+## Cepha's Temple

@@ -1,18 +1,10 @@
 ---
-title: 
+title: Dhakaani Temple Ruins
 type: place
-description: 
+description: Jungle ruins of Dhakaani Temple in Darguun
 date: 2024-08-19
-draft: true
-continent: 
-nation:
+draft: false
+continent: Khorvaire
+nation: Darguun
 ---
-
-# People
-
-<!-- QueryToSerialize: TABLE description as "Description" FROM "People" WHERE location = "PLACE" -->
-<!-- SerializedQuery: TABLE description as "Description" FROM "People" WHERE location = "PLACE" -->
-
-| File | Description |
-| ---- | ----------- |
-<!-- SerializedQuery END -->
+![[_assets/media/Places/Dhakaani Temple Ruins.png]]

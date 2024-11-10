@@ -8,22 +8,25 @@ continent: Khorvaire
 nation: Darguun
 ---
 ![[_assets/media/Places/Rhukaan Draal.png]]
-Rhukaan Draal is the capital city of Darguun. Rhukaan Draal is a sprawling goblinoid metropolis. Ruled by [[People/Haruuc Shaarat'kor]].
+Rhukaan Draal is the capital city of Darguun. Rhukaan Draal is a sprawling goblinoid metropolis. Ruled by [[People/Haruuc Shaarat'kor|Haruuc Shaarat'kor]].
 # People
 
 <!-- QueryToSerialize: TABLE description as "Description" FROM "People" WHERE location = "Rhukaan Draal" -->
 <!-- SerializedQuery: TABLE description as "Description" FROM "People" WHERE location = "Rhukaan Draal" -->
 
-| File                                                 | Description      |
-| ---------------------------------------------------- | ---------------- |
-| [[Haruuc Shaarat'kor]] | Ruler of Darguun |
+| File                                                 | Description                                               |
+| ---------------------------------------------------- | --------------------------------------------------------- |
+| [[Haruuc Shaarat'kor]] | Ruler of Darguun                                          |
+| [[Stonk]]                           | Bugbear stablemaster and cart repairman in Rhukaan Draal. |
+| [[Mama Goth]]                   | Magic store proprietor in Rhukaan Draal.                  |
+| [[Gravlor]]                       | Firearm salesman in Rhukaan Draal.                        |
 <!-- SerializedQuery END -->
 
 # Locations
 
 ## The Bloody Market
 
-## Stonks Cart Repair/Stablemaster
+## Stonk's Cart Repair/Stablemaster
 
 ## Mama Goth's Magic Shop
 
