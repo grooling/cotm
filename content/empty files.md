@@ -1,18 +1,18 @@
 ---
 draft: true
 ---
-- [[Places/Thrane/index.md]]
-- [[Places/Breland/Starilaskur.md]]
-- [[Places/Breland/index.md]]
+
 - [[Places/Zilargo/index.md]]
+- [[Places/Thrane/index.md]]
 - [[Places/Q'barra/index.md]]
+- [[Places/Mror Holds/index.md]]
 - [[Places/Mournland/Steelspire.md]]
 - [[Places/Mournland/index.md]]
 - [[Places/Mournland/Greenland.md]]
-- [[Places/Mror Holds/index.md]]
-- [[Places/Darguun/index.md]]
 - [[Places/Karrnath/index.md]]
+- [[Places/Breland/index.md]]
 - [[Places/Droaam/index.md]]
+- [[Places/Darguun/index.md]]
 - [[Places/Aundair/index.md]]
 - [[People/Sergeant Dolom.md]]
 - [[People/Phaerix.md]]

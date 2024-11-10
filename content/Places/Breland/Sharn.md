@@ -17,8 +17,8 @@ Sharn is the most populous city in all of Khorvaire. Known as the City of Towers
 
 | File                                                     | Description                                             |
 | -------------------------------------------------------- | ------------------------------------------------------- |
-| [[Bonal Geldem]]                 | Human provost of Morgrave University studying history   |
 | [[Arguth]]                             | Orc artificer and nut salesman in Sharn                 |
+| [[Bonal Geldem]]                 | Human provost of Morgrave University studying history   |
 | [[Chester]]                           | Dramatic daelkyr jester stalking Aya in Sharn           |
 | [[Lady Elaydren d'Vown]] | Human noblewoman of House Cannith in Sharn              |
 | [[Mandy]]                               | Impatient bugbear Daask member                          |

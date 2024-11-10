@@ -16,10 +16,10 @@ Rhukaan Draal is the capital city of Darguun. Rhukaan Draal is a sprawling gobli
 
 | File                                                 | Description                                               |
 | ---------------------------------------------------- | --------------------------------------------------------- |
-| [[Haruuc Shaarat'kor]] | Ruler of Darguun                                          |
-| [[Stonk]]                           | Bugbear stablemaster and cart repairman in Rhukaan Draal. |
-| [[Mama Goth]]                   | Magic store proprietor in Rhukaan Draal.                  |
 | [[Gravlor]]                       | Firearm salesman in Rhukaan Draal.                        |
+| [[Haruuc Shaarat'kor]] | Ruler of Darguun                                          |
+| [[Mama Goth]]                   | Magic store proprietor in Rhukaan Draal.                  |
+| [[Stonk]]                           | Bugbear stablemaster and cart repairman in Rhukaan Draal. |
 <!-- SerializedQuery END -->
 
 # Locations

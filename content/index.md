@@ -54,18 +54,32 @@ description: Notes for Call of the Mournland
 <!-- QueryToSerialize: TABLE WITHOUT ID title as "Place", nation as "Nation", description as "Description" from "Places" WHERE !draft AND contains(lower(type),"place") SORT date ASC -->
 <!-- SerializedQuery: TABLE WITHOUT ID title as "Place", nation as "Nation", description as "Description" from "Places" WHERE !draft AND contains(lower(type),"place") SORT date ASC -->
 
-| Place              | Nation     | Description                                                      |
-| ------------------ | ---------- | ---------------------------------------------------------------- |
-| Aerenal            | Aerenal    | Isolationist Elven island continent to the south                 |
-| Sharn              | Breland    | The most populous city in all of Khorvaire                       |
-| Metrol             | Mournland  | The former capital of Galifar and Cyre, now ruined               |
-| Sterngate          | Breland    | Fortress at border between Breland and Darguun                   |
-| Flamekeep          | Thrane     | The largest city and religious/political heart of Thrane         |
-| Trolanport         | Zilargo    | Capital city of Zilargo                                          |
-| Rhukaan Draal      | Darguun    | A sprawling goblinoid metropolis and capital city of Darguun     |
-| Krona Peak         | Mror Holds | \-                                                               |
-| Endworld Mountains | Q'barra    | \-                                                               |
-| Darry's Landing    | Mournland  | An unusually lively village in the Mournland with a huge secret. |
+| Place                    | Nation     | Description                                                            |
+| ------------------------ | ---------- | ---------------------------------------------------------------------- |
+| Aerenal                  | Aerenal    | Isolationist Elven island continent to the south                       |
+| Sharn                    | Breland    | The most populous city in all of Khorvaire                             |
+| Metrol                   | Mournland  | The former capital of Galifar and Cyre, now ruined                     |
+| Sterngate                | Breland    | Fortress at border between Breland and Darguun                         |
+| Starilaskur              | Breland    | Major lightning rail stop in Breland                                   |
+| Flamekeep                | Thrane     | The largest city and religious/political heart of Thrane               |
+| Trolanport               | Zilargo    | Capital city of Zilargo                                                |
+| Clan Ashmaker Hold Ruins | Darguun    | Mountain Cavern ruins of Dwarven Clan Ashmaker's Hold                  |
+| Argonnessen              | \-         | Isolationist dragon continent to the far southeast of Khorvaire.       |
+| Rhukaan Draal            | Darguun    | A sprawling goblinoid metropolis and capital city of Darguun           |
+| Brokentooth              | Darguun    | Small Darguun town where the group shared personal stories and rested. |
+| Lyrenton                 | Darguun    | Tent city at the border between Darguun and Mournland.                 |
+| Zarrthec                 | Darguun    | Small Darguun town where the group searched for Darguun soldiers.      |
+| Tronish                  | Mournland  | A former major city of Cyre and home to Zinnia Rose                    |
+| Steelspire               | Mournland  | \-                                                                     |
+| Dhakaani Temple Ruins    | Darguun    | Jungle ruins of Dhakaani Temple in Darguun                             |
+| Krona Peak               | Mror Holds | \-                                                                     |
+| Endworld Mountains       | Q'barra    | \-                                                                     |
+| Copperton                | Mournland  | \-                                                                     |
+| Darry's Landing          | Mournland  | An unusually lively village in the Mournland with a huge secret.       |
+| Glass Plateau            | Mournland  | Glass topographic feature in central Mournland.                        |
+| Lantz                    | Mournland  | Ruined town inhabited by the Morel mushroom-folk.                      |
+| Broken Tower             | Mournland  | Mournland city where Rastia ir'Lain was nearly mugged.                 |
+| Making                   | Mournland  | Former major seat of House Phiarlan in the Mournland.                  |
 <!-- SerializedQuery END -->
 
 # People
@@ -89,7 +103,11 @@ description: Notes for Call of the Mournland
 | Galin Springbranch   | Trolanport      | Inquisitive gnome that gifted party bronze dragon scales                  |
 | Victor d'Vadalis     | \-              | Snake handler of House Vadalis from Lightning Rail Train                  |
 | Uvlar                | Sterngate       | Bugbear mercenary band captain                                            |
+| Clan Ashmaker        | Darguun         | Long deceased Dwarven clan in sarcophagi in Dwarven ruins.                |
+| Gravlor              | Rhukaan Draal   | Firearm salesman in Rhukaan Draal.                                        |
 | Haruuc Shaarat'kor   | Rhukaan Draal   | Ruler of Darguun                                                          |
+| Mama Goth            | Rhukaan Draal   | Magic store proprietor in Rhukaan Draal.                                  |
+| Stonk                | Rhukaan Draal   | Bugbear stablemaster and cart repairman in Rhukaan Draal.                 |
 | Cepha                | Khraal          | Green dragon known as The Scourge of Khraal                               |
 | Phaerix              | \-              | \-                                                                        |
 | Hathar               | Darguun         | Dwarven wayfinder guide into Mournland                                    |
@@ -101,6 +119,7 @@ description: Notes for Call of the Mournland
 | Teddic               | Copperton       | A deceased Cyran soldier who had been suspended in time on a battlefield. |
 | Annallisse           | Darry's Landing | Alchemist in Darry's Landing                                              |
 | Sovereign Alexander  | Darry's Landing | Priest of the Sovereign Host in Darry's Landing                           |
+| Stur                 | Khraal          | Bugbear patrolman of the Limb Choppers in The Khraal.                     |
 <!-- SerializedQuery END -->
 
 # Treasure

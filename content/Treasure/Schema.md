@@ -8,7 +8,7 @@ location: Darguun
 owner: Party
 ---
 ![[_assets/media/Items/schema.png]]
-## Seven Pointed Star
+## Seven Pointed Star / First Schema
 Discovered in [[Places/Breland/Sharn#House Cannith Ruins|House Cannith Ruins beneath Sharn]]. Stolen from Lady Elaydren d'Vown, who hired the party to recover it. She claimed it was a family heirloom of House Cannith West. The party lied and told her the Blades got away with the schema, keeping it for themselves due to uncertainty around how House Cannith might use it.
 
 Identified by [[People/Arguth|Arguth]] who revealed it was a very rare object containing a schema. After a couple days work, he activated the schema, revealing a hologram of a giant mechanical clawed arm, with words resembling binary flitting about.
