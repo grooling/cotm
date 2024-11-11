@@ -33,6 +33,7 @@ description: Notes for Call of the Mournland
 | [[022]] | 10-13 | Communicating with an ancient entity in the Glass Plateau crystal cavern.  |
 | [[023]] | 10-27 | Abandoning the giant protector and investigating the cloud for the Morel.  |
 | [[024]] | 11-03 | Returning to the Glass Plateau to explore Making with Rastia ir'Lain.      |
+| [[025]] | 11-10 | The battle against the Blades at The Theater of Light and Shadow.          |
 <!-- SerializedQuery END -->
 
 # The Party

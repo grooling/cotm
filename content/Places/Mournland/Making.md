@@ -13,7 +13,7 @@ The party headed to Making with Rastia ir'Lain after convincing her to move her 
 There were no signs of life in Making. There was a large fortress central in the city. It appeared spikey with spires of glass rising up around it.
 # Locations
 ## The Theater of Light and Shadow
-Amphitheatre location looted by the party. The aquatic themed show and all of its audience, orchestra, cast, and crew were killed and left in their places, presumably during the Day of Mourning.
+Theatre location looted by the party. The aquatic themed show and all of its audience, orchestra, cast, and crew were killed and left in their places, presumably during the Day of Mourning.
 
 The illusion magic portraying aquatic creatures persisted above the stage, as the illusion magic must've been tampered with by the Mourning. Three sharks from the scene attacked the party.
 
