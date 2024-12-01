@@ -39,7 +39,6 @@ description: Notes for Call of the Mournland
 <!-- SerializedQuery END -->
 
 # The Party
----
 <!-- QueryToSerialize: TABLE player as "Player", description as "Description" FROM "People/Player Characters" WHERE type = "person" AND !deceased SORT file.name ASC -->
 <!-- SerializedQuery: TABLE player as "Player", description as "Description" FROM "People/Player Characters" WHERE type = "person" AND !deceased SORT file.name ASC -->
 
@@ -107,8 +106,8 @@ description: Notes for Call of the Mournland
 | Victor d'Vadalis     | \-              | Snake handler of House Vadalis from Lightning Rail Train                  |
 | Uvlar                | Sterngate       | Bugbear mercenary band captain                                            |
 | Clan Ashmaker        | Darguun         | Long deceased Dwarven clan in sarcophagi in Dwarven ruins.                |
-| Gravlor              | Rhukaan Draal   | Firearm salesman in Rhukaan Draal.                                        |
 | Haruuc Shaarat'kor   | Rhukaan Draal   | Ruler of Darguun                                                          |
+| Gravlor              | Rhukaan Draal   | Firearm salesman in Rhukaan Draal.                                        |
 | Mama Goth            | Rhukaan Draal   | Magic store proprietor in Rhukaan Draal.                                  |
 | Stonk                | Rhukaan Draal   | Bugbear stablemaster and cart repairman in Rhukaan Draal.                 |
 | Cepha                | Khraal          | Green dragon known as The Scourge of Khraal                               |

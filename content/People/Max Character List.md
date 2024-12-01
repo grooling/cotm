@@ -20,13 +20,13 @@ draft: true
 | Edrin                | Human cleric of the Church of the Silver Flame                            |
 | Felicia Bladefall    | Human merchant from Lightning Rail Train                                  |
 | Galin Springbranch   | Inquisitive gnome that gifted party bronze dragon scales                  |
-| Gravlor              | Firearm salesman in Rhukaan Draal.                                        |
 | Haruuc Shaarat'kor   | Ruler of Darguun                                                          |
+| Gravlor              | Firearm salesman in Rhukaan Draal.                                        |
 | Hathar               | Dwarven wayfinder guide into Mournland                                    |
 | Jerediah Semet       | Mayor of Darry's Landing                                                  |
 | Joe                  | Chef from Darry's Landing                                                 |
-| Mama Goth            | Magic store proprietor in Rhukaan Draal.                                  |
 | Lady Elaydren d'Vown | Human noblewoman of House Cannith in Sharn                                |
+| Mama Goth            | Magic store proprietor in Rhukaan Draal.                                  |
 | Mandy                | Impatient bugbear Daask member                                            |
 | Myles                | Eight year-old boy from Darry's Landing                                   |
 | Nibbur               | Goblin tailor and informant for Rik Roper in Sharn                        |
@@ -34,8 +34,8 @@ draft: true
 | Sergeant Dolom       | Sergeant in Sharn                                                         |
 | Skakan               | Goblin "merchant" running a Rat Market in Sharn                           |
 | Sovereign Alexander  | Priest of the Sovereign Host in Darry's Landing                           |
-| Stonk                | Bugbear stablemaster and cart repairman in Rhukaan Draal.                 |
 | Stur                 | Bugbear patrolman of the Limb Choppers in The Khraal.                     |
+| Stonk                | Bugbear stablemaster and cart repairman in Rhukaan Draal.                 |
 | Teddic               | A deceased Cyran soldier who had been suspended in time on a battlefield. |
 | Tumrek d'Cannith     | Jolly dwarven artificer, friend of Kanxith's from Sharn                   |
 | Uvlar                | Bugbear mercenary band captain                                            |
