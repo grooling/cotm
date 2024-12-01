@@ -1,7 +1,7 @@
 ---
-title: Mysterious Hooded Killer
+title: Zelandris
 type: npc
-description: Killed Bonal Geldem while wearing a warforged mask
+description: Changeling that killed Bonal Geldem while wearing a warforged mask
 date: 2024-03-17
 draft: false
 location: Sharn

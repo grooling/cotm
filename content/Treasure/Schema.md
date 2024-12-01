@@ -31,8 +31,9 @@ Traveling to Cepha's lair and completing "trials" granted us an audience with he
 The favor was quickly called in as the village outside her temple fell under attack. A small group including the orcish hooded figure who killed Bonal Geldem in Sharn were responsible. He attacked Cepha and demnaded that she give him the schema, and threatened to kill Cepha as well as Aya Albata. During combat, he teleported away after losing his allies, without the schema.
 ## Fourth Schema
 Recovered in Darry's Landing from Annallisse, an Aerenal alchemist who had been hiding it for over a century by request of [[People/Phaerix]]. 
-
 ## Fifth Schema
-Unrecovered, marked on map as located in the Field of Ruins
+Marked on map as located in the Field of Ruins within the Grey Mist, the final schema was recovered in the House Cannith Power and Water LLC underground laboratory, or Cannith Alternate Reality Research Division.
+
+The schema was within a Blade member undergoing painful experimentation by a construct in an operating theater. The Blades member begged us to kill it. The group snatched the schema and ran, Zinnia shooting the Blades member to put it out of its misery, and sent the Modrons in to kill the surgeon construct.
 
 
