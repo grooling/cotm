@@ -17,9 +17,9 @@ Sharn is the most populous city in all of Khorvaire. Known as the City of Towers
 
 | File                                                     | Description                                                        |
 | -------------------------------------------------------- | ------------------------------------------------------------------ |
-| [[Chester]]                           | Dramatic daelkyr jester stalking Aya in Sharn                      |
 | [[Arguth]]                             | Orc artificer and nut salesman in Sharn                            |
 | [[Bonal Geldem]]                 | Human provost of Morgrave University studying history              |
+| [[Chester]]                           | Dramatic daelkyr jester stalking Aya in Sharn                      |
 | [[Lady Elaydren d'Vown]] | Human noblewoman of House Cannith in Sharn                         |
 | [[Mandy]]                               | Impatient bugbear Daask member                                     |
 | [[Nibbur]]                             | Goblin tailor and informant for Rik Roper in Sharn                 |

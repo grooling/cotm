@@ -34,6 +34,8 @@ description: Notes for Call of the Mournland
 | [[023]] | 10-27 | Abandoning the giant protector and investigating the cloud for the Morel.  |
 | [[024]] | 11-03 | Returning to the Glass Plateau to explore Making with Rastia ir'Lain.      |
 | [[025]] | 11-10 | The battle against the Blades at The Theater of Light and Shadow.          |
+| [[026]] | 11-17 | Delving into the Cannith Research Facility within the Grey Mist.           |
+| [[027]] | 11-24 | Scrying on Phaerix and Zelandris and taking the final schema.              |
 <!-- SerializedQuery END -->
 
 # The Party
@@ -91,7 +93,7 @@ description: Notes for Call of the Mournland
 | -------------------- | --------------- | ------------------------------------------------------------------------- |
 | Bonal Geldem         | Sharn           | Human provost of Morgrave University studying history                     |
 | Lady Elaydren d'Vown | Sharn           | Human noblewoman of House Cannith in Sharn                                |
-| Mystery Killer       | Sharn           | Killed Bonal Geldem while wearing a warforged mask                        |
+| Zelandris            | Sharn           | Changeling that killed Bonal Geldem while wearing a warforged mask        |
 | Mandy                | Sharn           | Impatient bugbear Daask member                                            |
 | Nibbur               | Sharn           | Goblin tailor and informant for Rik Roper in Sharn                        |
 | Skakan               | Sharn           | Goblin "merchant" running a Rat Market in Sharn                           |
