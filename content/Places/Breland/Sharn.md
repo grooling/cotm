@@ -20,11 +20,11 @@ Sharn is the most populous city in all of Khorvaire. Known as the City of Towers
 | [[Arguth]]                             | Orc artificer and nut salesman in Sharn                            |
 | [[Bonal Geldem]]                 | Human provost of Morgrave University studying history              |
 | [[Chester]]                           | Dramatic daelkyr jester stalking Aya in Sharn                      |
-| [[Lady Elaydren d'Vown]] | Human noblewoman of House Cannith in Sharn                         |
 | [[Mandy]]                               | Impatient bugbear Daask member                                     |
-| [[Nibbur]]                             | Goblin tailor and informant for Rik Roper in Sharn                 |
+| [[Lady Elaydren d'Vown]] | Human noblewoman of House Cannith in Sharn                         |
 | [[Aya Albata]]   | Human courier warlock from forgotten past                          |
 | [[Sergeant Dolom]]             | Sergeant in Sharn                                                  |
+| [[Nibbur]]                             | Goblin tailor and informant for Rik Roper in Sharn                 |
 | [[Skakan]]                             | Goblin "merchant" running a Rat Market in Sharn                    |
 | [[Tumrek d'Cannith]]         | Jolly dwarven artificer, friend of Kanxith's from Sharn            |
 | [[Zelandris]]                       | Changeling that killed Bonal Geldem while wearing a warforged mask |

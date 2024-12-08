@@ -13,7 +13,7 @@ Discovered in [[Places/Breland/Sharn#House Cannith Ruins|House Cannith Ruins ben
 
 Identified by [[People/Arguth|Arguth]] who revealed it was a very rare object containing a schema. After a couple days work, he activated the schema, revealing a hologram of a giant mechanical clawed arm, with words resembling binary flitting about.
 
-The mechanical arm from the schema reminded [[Tumrek d'Cannith]] of the Colussi used in the war, but even more complicated. He confirmed that it is a weapon.
+The mechanical arm from the schema reminded [[Tumrek d'Cannith]] of the Colossi used in the war, but even more complicated. He confirmed that it is a weapon.
 ## Second Schema
 Discovered in Dwarven Ruins in Darguun. Taken from the Goblin king Werd who wore it on his crown.
 

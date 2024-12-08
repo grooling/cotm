@@ -17,8 +17,8 @@ nation: Mournland
 | ------------------------------------------------------ | ----------------------------------------------- |
 | [[Annallisse]]                   | Alchemist in Darry's Landing                    |
 | [[Jerediah Semet]]           | Mayor of Darry's Landing                        |
-| [[Joe]]                                 | Chef from Darry's Landing                       |
 | [[Myles]]                             | Eight year-old boy from Darry's Landing         |
+| [[Joe]]                                 | Chef from Darry's Landing                       |
 | [[Sovereign Alexander]] | Priest of the Sovereign Host in Darry's Landing |
 <!-- SerializedQuery END -->
 

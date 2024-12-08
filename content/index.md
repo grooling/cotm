@@ -36,6 +36,8 @@ description: Notes for Call of the Mournland
 | [[025]] | 11-10 | The battle against the Blades at The Theater of Light and Shadow.          |
 | [[026]] | 11-17 | Delving into the Cannith Research Facility within the Grey Mist.           |
 | [[027]] | 11-24 | Scrying on Phaerix and Zelandris and taking the final schema.              |
+| [[028]] | 12-01 | \-                                                                         |
+| [[029]] | 12-08 | \-                                                                         |
 <!-- SerializedQuery END -->
 
 # The Party
@@ -63,8 +65,8 @@ description: Notes for Call of the Mournland
 | Metrol                   | Mournland  | The former capital of Galifar and Cyre, now ruined                     |
 | Sterngate                | Breland    | Fortress at border between Breland and Darguun                         |
 | Starilaskur              | Breland    | Major lightning rail stop in Breland                                   |
-| Flamekeep                | Thrane     | The largest city and religious/political heart of Thrane               |
 | Trolanport               | Zilargo    | Capital city of Zilargo                                                |
+| Flamekeep                | Thrane     | The largest city and religious/political heart of Thrane               |
 | Clan Ashmaker Hold Ruins | Darguun    | Mountain Cavern ruins of Dwarven Clan Ashmaker's Hold                  |
 | Argonnessen              | \-         | Isolationist dragon continent to the far southeast of Khorvaire.       |
 | Rhukaan Draal            | Darguun    | A sprawling goblinoid metropolis and capital city of Darguun           |
@@ -106,8 +108,8 @@ description: Notes for Call of the Mournland
 | Victor d'Vadalis     | \-              | Snake handler of House Vadalis from Lightning Rail Train                  |
 | Uvlar                | Sterngate       | Bugbear mercenary band captain                                            |
 | Clan Ashmaker        | Darguun         | Long deceased Dwarven clan in sarcophagi in Dwarven ruins.                |
-| Haruuc Shaarat'kor   | Rhukaan Draal   | Ruler of Darguun                                                          |
 | Gravlor              | Rhukaan Draal   | Firearm salesman in Rhukaan Draal.                                        |
+| Haruuc Shaarat'kor   | Rhukaan Draal   | Ruler of Darguun                                                          |
 | Mama Goth            | Rhukaan Draal   | Magic store proprietor in Rhukaan Draal.                                  |
 | Stonk                | Rhukaan Draal   | Bugbear stablemaster and cart repairman in Rhukaan Draal.                 |
 | Cepha                | Khraal          | Green dragon known as The Scourge of Khraal                               |
@@ -116,8 +118,8 @@ description: Notes for Call of the Mournland
 | Dal'erna             | Mournland       | Medusa hiker that helped Zinnia after the Mourning                        |
 | Daneel Thornwaist    | Mournland       | Deceased gnome lightning rail worker from Zilargo.                        |
 | Jerediah Semet       | Darry's Landing | Mayor of Darry's Landing                                                  |
-| Joe                  | Darry's Landing | Chef from Darry's Landing                                                 |
 | Myles                | Darry's Landing | Eight year-old boy from Darry's Landing                                   |
+| Joe                  | Darry's Landing | Chef from Darry's Landing                                                 |
 | Teddic               | Copperton       | A deceased Cyran soldier who had been suspended in time on a battlefield. |
 | Annallisse           | Darry's Landing | Alchemist in Darry's Landing                                              |
 | Sovereign Alexander  | Darry's Landing | Priest of the Sovereign Host in Darry's Landing                           |
@@ -139,8 +141,8 @@ description: Notes for Call of the Mournland
 | Bag of Holding                  | Nakaya      | Storage bag with magically increased capacity                  |
 | Snail shell necklace            | Zinnia Rose | Magical necklace with boon from a Chwinga                      |
 | Boots of Elvenkind              | Rik         | Boots that magically silence footsteps                         |
-| Helm of Telepathy               | Rik         | Cast Detect Thoughts/Suggestion once a day                     |
 | Potion of Cloud Giant Strength  | Bariac      | Potion that increases Strength to 27 for an hour               |
+| Helm of Telepathy               | Rik         | Cast Detect Thoughts/Suggestion once a day                     |
 | Pocketwatch of Time and Place   | Bariac      | Pocketwatch that tells time and points North on Material Plane |
 <!-- SerializedQuery END -->
 # Compendium
@@ -157,8 +159,8 @@ description: Notes for Call of the Mournland
 | Ankheg            | Darguun         | Large burrowing insectoid creatures                          |
 | Daelkyr           | Xoriat          | Extraplanar creatures who appear unnaturally beautiful       |
 | Chwinga           | Darguun         | Small, shy spirits found in remote locations                 |
-| Clockwork leech   | Darguun         | Clockwork construction with the appearance of enormous leech |
 | Dolgrim           | Darguun         | Aberration created by merging two goblin bodies              |
+| Clockwork leech   | Darguun         | Clockwork construction with the appearance of enormous leech |
 | Gibbering mouther | Darguun         | Incoherent amorphous mounds of flesh and orifices            |
 | Kobold            | Darguun         | Small-sized reptilian humanoids                              |
 | Dog abomination   | Mournland       | A seemingly normal dog transformed into an abomination       |
