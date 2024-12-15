@@ -67,7 +67,7 @@ While traveling through the Mournland, Petra aged 10 years after being frightene
 
 | File                                                                             | From  | Description                                      |
 | -------------------------------------------------------------------------------- | ----- | ------------------------------------------------ |
-| [[Arcane Corruption Device]]               | Sharn | Broken arcane device corrupting warforged        |
 | [[Cannith Journal and Signet Ring]] | Sharn | Cannith journal and ring taken from Bonal Geldem |
+| [[Arcane Corruption Device]]               | Sharn | Broken arcane device corrupting warforged        |
 <!-- SerializedQuery END -->
 

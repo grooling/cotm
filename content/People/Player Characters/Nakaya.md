@@ -79,7 +79,7 @@ While traveling through the Mournland, Nakaya aged 40 years after being frighten
 
 | File                                             | From                 | Description                                   |
 | ------------------------------------------------ | -------------------- | --------------------------------------------- |
-| [[Bag of Holding]]   | Lightning Rail Train | Storage bag with magically increased capacity |
 | [[Candleflame Bow]] | Darguun              | Longbow with magical candle                   |
+| [[Bag of Holding]]   | Lightning Rail Train | Storage bag with magically increased capacity |
 <!-- SerializedQuery END -->
 

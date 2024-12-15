@@ -36,8 +36,8 @@ description: Notes for Call of the Mournland
 | [[025]] | 11-10 | The battle against the Blades at The Theater of Light and Shadow.          |
 | [[026]] | 11-17 | Delving into the Cannith Research Facility within the Grey Mist.           |
 | [[027]] | 11-24 | Scrying on Phaerix and Zelandris and taking the final schema.              |
-| [[028]] | 12-01 | \-                                                                         |
-| [[029]] | 12-08 | \-                                                                         |
+| [[028]] | 12-01 | Scrying on Harkun Stonerunner and traveling to Sterngate.                  |
+| [[029]] | 12-08 | Restoring Nakaya and stopping a lightning rail heist.                      |
 <!-- SerializedQuery END -->
 
 # The Party
@@ -65,15 +65,15 @@ description: Notes for Call of the Mournland
 | Metrol                   | Mournland  | The former capital of Galifar and Cyre, now ruined                     |
 | Sterngate                | Breland    | Fortress at border between Breland and Darguun                         |
 | Starilaskur              | Breland    | Major lightning rail stop in Breland                                   |
-| Trolanport               | Zilargo    | Capital city of Zilargo                                                |
 | Flamekeep                | Thrane     | The largest city and religious/political heart of Thrane               |
+| Trolanport               | Zilargo    | Capital city of Zilargo                                                |
 | Clan Ashmaker Hold Ruins | Darguun    | Mountain Cavern ruins of Dwarven Clan Ashmaker's Hold                  |
 | Argonnessen              | \-         | Isolationist dragon continent to the far southeast of Khorvaire.       |
 | Rhukaan Draal            | Darguun    | A sprawling goblinoid metropolis and capital city of Darguun           |
-| Brokentooth              | Darguun    | Small Darguun town where the group shared personal stories and rested. |
-| Lyrenton                 | Darguun    | Tent city at the border between Darguun and Mournland.                 |
-| Zarrthec                 | Darguun    | Small Darguun town where the group searched for Darguun soldiers.      |
 | Tronish                  | Mournland  | A former major city of Cyre and home to Zinnia Rose                    |
+| Brokentooth              | Darguun    | Small Darguun town where the group shared personal stories and rested. |
+| Zarrthec                 | Darguun    | Small Darguun town where the group searched for Darguun soldiers.      |
+| Lyrenton                 | Darguun    | Tent city at the border between Darguun and Mournland.                 |
 | Steelspire               | Mournland  | \-                                                                     |
 | Dhakaani Temple Ruins    | Darguun    | Jungle ruins of Dhakaani Temple in Darguun                             |
 | Krona Peak               | Mror Holds | \-                                                                     |
@@ -118,8 +118,8 @@ description: Notes for Call of the Mournland
 | Dal'erna             | Mournland       | Medusa hiker that helped Zinnia after the Mourning                        |
 | Daneel Thornwaist    | Mournland       | Deceased gnome lightning rail worker from Zilargo.                        |
 | Jerediah Semet       | Darry's Landing | Mayor of Darry's Landing                                                  |
-| Myles                | Darry's Landing | Eight year-old boy from Darry's Landing                                   |
 | Joe                  | Darry's Landing | Chef from Darry's Landing                                                 |
+| Myles                | Darry's Landing | Eight year-old boy from Darry's Landing                                   |
 | Teddic               | Copperton       | A deceased Cyran soldier who had been suspended in time on a battlefield. |
 | Annallisse           | Darry's Landing | Alchemist in Darry's Landing                                              |
 | Sovereign Alexander  | Darry's Landing | Priest of the Sovereign Host in Darry's Landing                           |
@@ -133,16 +133,16 @@ description: Notes for Call of the Mournland
 | Item                            | Owner       | Description                                                    |
 | ------------------------------- | ----------- | -------------------------------------------------------------- |
 | Ancient Map                     | Party       | Old map from House Cannith ruins beneath Sharn                 |
-| Arcane Corruption Device        | Petra       | Broken arcane device corrupting warforged                      |
 | Cannith Journal and Signet Ring | Petra       | Cannith journal and ring taken from Bonal Geldem               |
+| Arcane Corruption Device        | Petra       | Broken arcane device corrupting warforged                      |
 | Schema                          | Party       | Adamantine artefacts storing ancient artifice schemas          |
 | Brass Dragon Scale              | Party       | Gifts from Galin Springbranch                                  |
 | Candleflame Bow                 | Nakaya      | Longbow with magical candle                                    |
 | Bag of Holding                  | Nakaya      | Storage bag with magically increased capacity                  |
 | Snail shell necklace            | Zinnia Rose | Magical necklace with boon from a Chwinga                      |
 | Boots of Elvenkind              | Rik         | Boots that magically silence footsteps                         |
-| Potion of Cloud Giant Strength  | Bariac      | Potion that increases Strength to 27 for an hour               |
 | Helm of Telepathy               | Rik         | Cast Detect Thoughts/Suggestion once a day                     |
+| Potion of Cloud Giant Strength  | Bariac      | Potion that increases Strength to 27 for an hour               |
 | Pocketwatch of Time and Place   | Bariac      | Pocketwatch that tells time and points North on Material Plane |
 <!-- SerializedQuery END -->
 # Compendium
@@ -158,11 +158,11 @@ description: Notes for Call of the Mournland
 | Manticore         | Darguun         | Large monstrosity with vaguely human face                    |
 | Ankheg            | Darguun         | Large burrowing insectoid creatures                          |
 | Daelkyr           | Xoriat          | Extraplanar creatures who appear unnaturally beautiful       |
+| Clockwork leech   | Darguun         | Clockwork construction with the appearance of enormous leech |
 | Chwinga           | Darguun         | Small, shy spirits found in remote locations                 |
 | Dolgrim           | Darguun         | Aberration created by merging two goblin bodies              |
-| Clockwork leech   | Darguun         | Clockwork construction with the appearance of enormous leech |
-| Gibbering mouther | Darguun         | Incoherent amorphous mounds of flesh and orifices            |
 | Kobold            | Darguun         | Small-sized reptilian humanoids                              |
+| Gibbering mouther | Darguun         | Incoherent amorphous mounds of flesh and orifices            |
 | Dog abomination   | Mournland       | A seemingly normal dog transformed into an abomination       |
 | Doppelrat         | Darry's Landing | Rat that multiplied through mitosis                          |
 <!-- SerializedQuery END -->
