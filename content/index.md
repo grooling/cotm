@@ -38,6 +38,8 @@ description: Notes for Call of the Mournland
 | [[027]] | 11-24 | Scrying on Phaerix and Zelandris and taking the final schema.              |
 | [[028]] | 12-01 | Scrying on Harkun Stonerunner and traveling to Sterngate.                  |
 | [[029]] | 12-08 | Restoring Nakaya and stopping a lightning rail heist.                      |
+| [[030]] | 12-15 | Investigating Rik's missing partner and Ysgithyrwyn in Sharn.              |
+| [[031]] | 12-29 | Gift exchange and meeting with Daask mob boss Cavallah.                    |
 <!-- SerializedQuery END -->
 
 # The Party
@@ -70,10 +72,10 @@ description: Notes for Call of the Mournland
 | Clan Ashmaker Hold Ruins | Darguun    | Mountain Cavern ruins of Dwarven Clan Ashmaker's Hold                  |
 | Argonnessen              | \-         | Isolationist dragon continent to the far southeast of Khorvaire.       |
 | Rhukaan Draal            | Darguun    | A sprawling goblinoid metropolis and capital city of Darguun           |
-| Tronish                  | Mournland  | A former major city of Cyre and home to Zinnia Rose                    |
 | Brokentooth              | Darguun    | Small Darguun town where the group shared personal stories and rested. |
-| Zarrthec                 | Darguun    | Small Darguun town where the group searched for Darguun soldiers.      |
 | Lyrenton                 | Darguun    | Tent city at the border between Darguun and Mournland.                 |
+| Zarrthec                 | Darguun    | Small Darguun town where the group searched for Darguun soldiers.      |
+| Tronish                  | Mournland  | A former major city of Cyre and home to Zinnia Rose                    |
 | Steelspire               | Mournland  | \-                                                                     |
 | Dhakaani Temple Ruins    | Darguun    | Jungle ruins of Dhakaani Temple in Darguun                             |
 | Krona Peak               | Mror Holds | \-                                                                     |
@@ -133,8 +135,8 @@ description: Notes for Call of the Mournland
 | Item                            | Owner       | Description                                                    |
 | ------------------------------- | ----------- | -------------------------------------------------------------- |
 | Ancient Map                     | Party       | Old map from House Cannith ruins beneath Sharn                 |
-| Cannith Journal and Signet Ring | Petra       | Cannith journal and ring taken from Bonal Geldem               |
 | Arcane Corruption Device        | Petra       | Broken arcane device corrupting warforged                      |
+| Cannith Journal and Signet Ring | Petra       | Cannith journal and ring taken from Bonal Geldem               |
 | Schema                          | Party       | Adamantine artefacts storing ancient artifice schemas          |
 | Brass Dragon Scale              | Party       | Gifts from Galin Springbranch                                  |
 | Candleflame Bow                 | Nakaya      | Longbow with magical candle                                    |
@@ -158,11 +160,11 @@ description: Notes for Call of the Mournland
 | Manticore         | Darguun         | Large monstrosity with vaguely human face                    |
 | Ankheg            | Darguun         | Large burrowing insectoid creatures                          |
 | Daelkyr           | Xoriat          | Extraplanar creatures who appear unnaturally beautiful       |
-| Clockwork leech   | Darguun         | Clockwork construction with the appearance of enormous leech |
 | Chwinga           | Darguun         | Small, shy spirits found in remote locations                 |
+| Clockwork leech   | Darguun         | Clockwork construction with the appearance of enormous leech |
 | Dolgrim           | Darguun         | Aberration created by merging two goblin bodies              |
-| Kobold            | Darguun         | Small-sized reptilian humanoids                              |
 | Gibbering mouther | Darguun         | Incoherent amorphous mounds of flesh and orifices            |
+| Kobold            | Darguun         | Small-sized reptilian humanoids                              |
 | Dog abomination   | Mournland       | A seemingly normal dog transformed into an abomination       |
 | Doppelrat         | Darry's Landing | Rat that multiplied through mitosis                          |
 <!-- SerializedQuery END -->

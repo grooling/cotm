@@ -60,8 +60,8 @@ Durdirra Ironfist (mother)
 
 | File                                                                           | From          | Description                                                    |
 | ------------------------------------------------------------------------------ | ------------- | -------------------------------------------------------------- |
-| [[Potion of Cloud Giant Strength]] | Cepha's Hoard | Potion that increases Strength to 27 for an hour               |
 | [[Pocketwatch of Time and Place]]   | Mournland     | Pocketwatch that tells time and points North on Material Plane |
+| [[Potion of Cloud Giant Strength]] | Cepha's Hoard | Potion that increases Strength to 27 for an hour               |
 <!-- SerializedQuery END -->
 
 
