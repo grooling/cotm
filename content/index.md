@@ -40,6 +40,8 @@ description: Notes for Call of the Mournland
 | [[029]] | 12-08 | Restoring Nakaya and stopping a lightning rail heist.                      |
 | [[030]] | 12-15 | Investigating Rik's missing partner and Ysgithyrwyn in Sharn.              |
 | [[031]] | 12-29 | Gift exchange and meeting with Daask mob boss Cavallah.                    |
+| [[032]] | 01-05 | Double-crossing Cavallah with Boromar clan help.                           |
+| [[033]] | 01-12 | Fighting Cavallah and learning about House Kavay hiring Stonerunner.       |
 <!-- SerializedQuery END -->
 
 # The Party
@@ -143,8 +145,8 @@ description: Notes for Call of the Mournland
 | Bag of Holding                  | Nakaya      | Storage bag with magically increased capacity                  |
 | Snail shell necklace            | Zinnia Rose | Magical necklace with boon from a Chwinga                      |
 | Boots of Elvenkind              | Rik         | Boots that magically silence footsteps                         |
-| Helm of Telepathy               | Rik         | Cast Detect Thoughts/Suggestion once a day                     |
 | Potion of Cloud Giant Strength  | Bariac      | Potion that increases Strength to 27 for an hour               |
+| Helm of Telepathy               | Rik         | Cast Detect Thoughts/Suggestion once a day                     |
 | Pocketwatch of Time and Place   | Bariac      | Pocketwatch that tells time and points North on Material Plane |
 <!-- SerializedQuery END -->
 # Compendium

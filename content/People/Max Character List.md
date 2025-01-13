@@ -19,8 +19,8 @@ draft: true
 | Daneel Thornwaist    | Deceased gnome lightning rail worker from Zilargo.                        |
 | Edrin                | Human cleric of the Church of the Silver Flame                            |
 | Felicia Bladefall    | Human merchant from Lightning Rail Train                                  |
-| Galin Springbranch   | Inquisitive gnome that gifted party bronze dragon scales                  |
 | Gravlor              | Firearm salesman in Rhukaan Draal.                                        |
+| Galin Springbranch   | Inquisitive gnome that gifted party bronze dragon scales                  |
 | Haruuc Shaarat'kor   | Ruler of Darguun                                                          |
 | Hathar               | Dwarven wayfinder guide into Mournland                                    |
 | Jerediah Semet       | Mayor of Darry's Landing                                                  |
