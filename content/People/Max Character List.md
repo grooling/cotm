@@ -19,8 +19,8 @@ draft: true
 | Daneel Thornwaist    | Deceased gnome lightning rail worker from Zilargo.                        |
 | Edrin                | Human cleric of the Church of the Silver Flame                            |
 | Felicia Bladefall    | Human merchant from Lightning Rail Train                                  |
-| Gravlor              | Firearm salesman in Rhukaan Draal.                                        |
 | Galin Springbranch   | Inquisitive gnome that gifted party bronze dragon scales                  |
+| Gravlor              | Firearm salesman in Rhukaan Draal.                                        |
 | Haruuc Shaarat'kor   | Ruler of Darguun                                                          |
 | Hathar               | Dwarven wayfinder guide into Mournland                                    |
 | Jerediah Semet       | Mayor of Darry's Landing                                                  |
@@ -34,8 +34,8 @@ draft: true
 | Sergeant Dolom       | Sergeant in Sharn                                                         |
 | Skakan               | Goblin "merchant" running a Rat Market in Sharn                           |
 | Sovereign Alexander  | Priest of the Sovereign Host in Darry's Landing                           |
-| Stur                 | Bugbear patrolman of the Limb Choppers in The Khraal.                     |
 | Stonk                | Bugbear stablemaster and cart repairman in Rhukaan Draal.                 |
+| Stur                 | Bugbear patrolman of the Limb Choppers in The Khraal.                     |
 | Teddic               | A deceased Cyran soldier who had been suspended in time on a battlefield. |
 | Tumrek d'Cannith     | Jolly dwarven artificer, friend of Kanxith's from Sharn                   |
 | Uvlar                | Bugbear mercenary band captain                                            |

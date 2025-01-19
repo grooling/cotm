@@ -145,8 +145,8 @@ description: Notes for Call of the Mournland
 | Bag of Holding                  | Nakaya      | Storage bag with magically increased capacity                  |
 | Snail shell necklace            | Zinnia Rose | Magical necklace with boon from a Chwinga                      |
 | Boots of Elvenkind              | Rik         | Boots that magically silence footsteps                         |
-| Potion of Cloud Giant Strength  | Bariac      | Potion that increases Strength to 27 for an hour               |
 | Helm of Telepathy               | Rik         | Cast Detect Thoughts/Suggestion once a day                     |
+| Potion of Cloud Giant Strength  | Bariac      | Potion that increases Strength to 27 for an hour               |
 | Pocketwatch of Time and Place   | Bariac      | Pocketwatch that tells time and points North on Material Plane |
 <!-- SerializedQuery END -->
 # Compendium
