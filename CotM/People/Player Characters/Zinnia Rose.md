@@ -63,6 +63,9 @@ I was abandoned as a baby and left to the care of The Church of the Silver Flame
 > ![[_assets/media/Items/Sunhat.bmp]]
 > ![[_assets/media/Items/Swimsuit.bmp]]
 
+> [!important]- Sailor Outfit
+> !![[_assets/media/sailor-outfit.png]]
+
 
 # Notes
 
